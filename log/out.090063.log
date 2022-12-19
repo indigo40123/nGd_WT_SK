@@ -1,0 +1,55 @@
+Output file: output/wt_090063.root input file:/disk03/lowe10/sk7/sle/lomugd.090063.root
+ Id of this manager : 10
+InitReadRoot: total = 6
+RUNINFO found in the rare list
+SK geometry setting: 6
+***** Dummy rgetvalue was called. (Remote File Access is not supported) *****
+==========WT:========== 11569.2 13553.4 11760.1
+0/6
+
+gestpm: TOTAL NUMBER PMT: WALL; TOP; BOTTOM; ALL  7650  1748  1748 11146
+ *****************************
+ * This is for SK-VI map      *
+ *****************************
+ findconsts: connection table file: /home/licheng/local/skofl/const//connection.super.dat
+gexyz: PMT # FOR EACH SECTION       1  7650  7651  9398  9399 11146
+gexyz: maxpm,nlwal     11146      7650
+ findconsts: connection table1 file: /home/licheng/local/skofl/const//connection.super.dat
+ findconsts: connection table2 file: /home/licheng/local/skofl/const//connection.super.sk-5.dat
+ findfile: checking /home/licheng/local/skofl/const//misch3.dat
+ findfile: found /home/licheng/local/skofl/const//misch3.dat
+ findconsts: mis channel file: /home/licheng/local/skofl/const//misch3.dat
+ findfile: checking /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findfile: found /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findconsts: pmt file: /home/licheng/local/skofl/const//skpmt_sk5.dat
+gestpma: TOTAL NUMBER anti PMT: WALL; TOP; BOTTOM; ALL  1275   302   308  1885
+gexyza: anti PMT # FOR EACH SECTION       1  1275  1276  1577  1578  1885
+ maxpma,nlwala      1885      1275
+ skbadch: log_level =            0
+ findconsts: badch.090063 file: /home/licheng/local/skofl/const//badch/badch.090063
+ findconsts: bad channel file: /home/licheng/local/skofl/const//badch.dat
+ findconsts: badch.090063 file: /home/licheng/local/skofl/const//badch/badch.090063
+ skdark: log_level =            0
+ findconsts: darkr.090063.root file: /home/licheng/local/skofl/const//darkr/darkr.090063.root
+ findconsts: badsub SK-I 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk.r1742-3051.r3208-3608
+ nbad 1 =         1851
+ findconsts: badsub SK-I 2 file: /home/licheng/local/skofl/const//lowe/badsub.sk.realtim
+ nbad 2 =        17511
+ findconsts: badsub SK-I 3 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual.1260day
+ nbad 3 =        21939
+ findconsts: badsub SK-I 4 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle.1260day
+ nbad 4 =        28004
+ findconsts: badsub SK-I 5 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual
+ nbad 5 =        28105
+ findconsts: badsub SK-I 6 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle
+ nbad 6 =        28105
+ findconsts: badsub SK-II 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk2.manual
+ nbad_sk2 SK-II 1 =        27759
+ findconsts: badsub SK-III 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk3.manual
+ nbad_sk3 SK-III 1 =         4149
+ findconsts: badsub SK-IV file: /home/licheng/local/skofl/const//lowe/badsub.sk4.manual
+ nbad_sk4 SK-IV =        66921
+ read local badsub.sk5.manual.local
+ nbad_sk5 SK-V =         2595
+ read local badsub.sk6.manual.local
+ nbad_sk6 SK-VI (Gd) =         7717

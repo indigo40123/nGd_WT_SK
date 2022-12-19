@@ -1,0 +1,2595 @@
+80008	0	short run
+80017	0	short run
+80018	0	short run
+80092	0	short run
+80093	0	short run
+80094	0	short run
+80095	0	short run
+80096	0	short run
+80097	0	short run
+80098	0	short run
+80099	0	short run
+80100	0	short run
+80101	0	short run
+80102	0	short run
+80103	0	short run
+80104	0	short run
+80105	0	short run
+80106	0	short run
+80107	0	short run
+80108	0	short run
+80109	119	DAQ error
+80109	120	DAQ error
+80109	121	DAQ error
+80109	122	DAQ error
+80109	123	DAQ error
+80113	0	short run
+80193	0	short run
+80194	95	DAQ error
+80194	96	DAQ error
+80194	97	DAQ error
+80194	98	DAQ error
+80194	99	DAQ error
+80245	0	short run
+80284	0	short run
+80292	0	short run
+80295	0	short run
+80296	0	HV trouble
+80305	53	pedestal error
+80305	54	pedestal error
+80305	55	pedestal error
+80305	56	pedestal error
+80305	57	pedestal error
+80315	442	DAQ error
+80315	443	DAQ error
+80315	444	DAQ error
+80315	445	DAQ error
+80315	446	DAQ error
+80315	447	DAQ error
+80318	0	short run
+80319	485	Auto calibration divice trouble
+80319	486	Auto calibration divice trouble
+80319	487	Auto calibration divice trouble
+80319	488	Auto calibration divice trouble
+80319	489	Auto calibration divice trouble
+80319	490	Auto calibration divice trouble
+80321	0	short run
+80322	0	cluster
+80451	0	short run
+80452	0	short run
+80453	0	Unstable trigger rate due to auto calibration divice
+80522	0	Unstable trigger rate
+80537	0	short run
+80541	0	short run
+80542	0	short run
+80543	0	short run
+80544	0	short run
+80546	0	short run
+80547	0	short run
+80548	0	short run
+80551	124	Large spike in the OD trigger rate due to noisy OD PMT
+80551	125	Large spike in the OD trigger rate due to noisy OD PMT
+80551	126	Large spike in the OD trigger rate due to noisy OD PMT
+80551	127	Large spike in the OD trigger rate due to noisy OD PMT
+80551	128	Large spike in the OD trigger rate due to noisy OD PMT
+80551	129	Large spike in the OD trigger rate due to noisy OD PMT
+80551	130	Large spike in the OD trigger rate due to noisy OD PMT
+80551	131	Large spike in the OD trigger rate due to noisy OD PMT
+80551	132	Large spike in the OD trigger rate due to noisy OD PMT
+80551	133	Large spike in the OD trigger rate due to noisy OD PMT
+80551	134	Large spike in the OD trigger rate due to noisy OD PMT
+80553	0	short run
+80554	0	Flasher PMT
+80555	0	Flasher PMT
+80585	0	Flasher PMT
+80626	0	short run
+80631	0	Flasher PMT
+80658	0	Flasher PMT
+80704	0	short run
+80716	0	short run
+80776	0	short run
+80780	0	HV error (over current)
+80782	0	short run
+80784	0	short run
+80785	142	DAQ error
+80785	143	DAQ error
+80785	144	DAQ error
+80785	145	DAQ error
+80785	146	DAQ error
+80785	147	DAQ error
+80785	148	DAQ error
+80785	149	DAQ error
+80785	150	DAQ error
+80785	151	DAQ error
+80785	152	DAQ error
+80786	26	DAQ error
+80786	27	DAQ error
+80786	28	DAQ error
+80786	29	DAQ error
+80786	30	DAQ error
+80786	31	DAQ error
+80786	32	DAQ error
+80786	33	DAQ error
+80786	34	DAQ error
+80786	35	DAQ error
+80786	36	DAQ error
+80787	74	DAQ error
+80787	75	DAQ error
+80787	76	DAQ error
+80787	77	DAQ error
+80787	78	DAQ error
+80787	79	DAQ error
+80787	80	DAQ error
+80787	81	DAQ error
+80787	82	DAQ error
+80787	83	DAQ error
+80787	84	DAQ error
+80792	1	Large noisy rate
+80792	2	Large noisy rate
+80792	3	Large noisy rate
+80792	4	Large noisy rate
+80792	5	Large noisy rate
+80792	6	Large noisy rate
+80792	7	Large noisy rate
+80792	8	Large noisy rate
+80792	9	Large noisy rate
+80792	10	Large noisy rate
+80792	11	Large noisy rate
+80792	12	Large noisy rate
+80792	13	Large noisy rate
+80792	14	Large noisy rate
+80792	15	Large noisy rate
+80792	16	Large noisy rate
+80792	17	Large noisy rate
+80792	18	Large noisy rate
+80792	19	Large noisy rate
+80792	20	Large noisy rate
+80792	21	Large noisy rate
+80792	22	Large noisy rate
+80792	23	Large noisy rate
+80792	24	Large noisy rate
+80792	25	Large noisy rate
+80792	26	Large noisy rate
+80792	27	Large noisy rate
+80792	28	Large noisy rate
+80792	29	Large noisy rate
+80792	30	Large noisy rate
+80793	134	DAQ error
+80793	135	DAQ error
+80793	136	DAQ error
+80793	137	DAQ error
+80793	138	DAQ error
+80793	139	DAQ error
+80793	140	DAQ error
+80793	141	DAQ error
+80793	142	DAQ error
+80793	143	DAQ error
+80793	144	DAQ error
+80796	140	Light injection by mistake
+80796	141	Light injection by mistake
+80796	142	Light injection by mistake
+80796	143	Light injection by mistake
+80796	144	Light injection by mistake
+80796	145	Light injection by mistake
+80796	146	Light injection by mistake
+80796	147	Light injection by mistake
+80796	148	Light injection by mistake
+80796	149	Light injection by mistake
+80796	150	Light injection by mistake
+80802	0	short run
+80804	0	short run
+80817	0	short run
+80827	0	short run
+80843	0	short run
+80848	0	short run
+80849	0	short run
+80851	0	short run
+80865	32	DAQ error
+80865	33	DAQ error
+80865	34	DAQ error
+80865	35	DAQ error
+80865	36	DAQ error
+80865	37	DAQ error
+80865	38	DAQ error
+80865	39	DAQ error
+80865	40	DAQ error
+80865	41	DAQ error
+80865	42	DAQ error
+80869	0	cluster
+80879	0	short run
+80881	0	short run
+80889	0	cluster
+80894	0	short run
+80903	0	max cable has a trouble
+80905	630	DAQ error
+80905	631	DAQ error
+80905	632	DAQ error
+80905	633	DAQ error
+80905	634	DAQ error
+80905	635	DAQ error
+80905	636	DAQ error
+80905	637	DAQ error
+80905	638	DAQ error
+80905	639	DAQ error
+80905	640	DAQ error
+80906	150	DAQ error
+80906	151	DAQ error
+80906	152	DAQ error
+80906	153	DAQ error
+80906	154	DAQ error
+80906	155	DAQ error
+80906	156	DAQ error
+80906	157	DAQ error
+80906	158	DAQ error
+80906	159	DAQ error
+80912	0	short run
+80914	0	short run
+80935	0	Wrong OD trigger was applied
+80936	0	Wrong OD trigger was applied
+80942	0	Wrong OD trigger was applied
+80943	0	No OD (hut3, ch13) was off
+80944	0	No OD (hut3, ch13) was off
+80947	520	OD HV error
+80947	521	OD HV error
+80947	522	OD HV error
+80947	523	OD HV error
+80947	524	OD HV error
+80947	525	OD HV error
+80947	526	OD HV error
+80947	527	OD HV error
+80947	528	OD HV error
+80953	0	short run
+80961	0	ID high rate tube fluctuated
+80962	0	ID high rate tube fluctuated
+80960	0	ID high rate tube fluctuated
+80957	235	SN LED test
+80957	236	SN LED test
+80957	237	SN LED test
+80963	0	ID high rate tube fluctuated
+80964	0	ID high rate tube fluctuated
+80968	0	one TKO is off
+80974	0	one QBEE off
+80987	0	short run
+81002	0	short run
+81004	0	PMT 5387 high rate
+81005	580	DAQ error
+81005	581	DAQ error
+81005	582	DAQ error
+81005	583	DAQ error
+81005	584	DAQ error
+81005	585	DAQ error
+81005	586	DAQ error
+81009	0	short run
+81013	264	DAQ error
+81013	265	DAQ error
+81013	266	DAQ error
+81013	267	DAQ error
+81013	268	DAQ error
+81013	269	DAQ error
+81032	0	max24 vs Qmax is strange
+81036	0	HV error (over current)
+81042	0	short run
+81053	0	max24 vs Qmax is strange
+81061	0	HV #40 trouble
+81073	0	noisy PMT
+81079	0	noisy PMT
+81080	0	noisy PMT
+81086	0	short run
+81083	0	ID PMT #7344 becomes noisy
+81084	0	ID PMT #7344 becomes noisy
+81090	0	ID PMT #797 becomes noisy
+80027	0	Flasher PMT
+80031	0	Flasher PMT
+80032	0	Flasher PMT
+81156	0	short run
+81157	0	very low event rate due to HV module error
+81158	0	very low event rate due to HV module error
+81163	0	very low event rate due to HV module error
+81166	0	short run
+81167	0	short run
+81170	0	short run
+81173	0	short run
+81198	580	HV ID high rate tube increased
+81198	581	HV ID high rate tube increased
+81198	582	HV ID high rate tube increased
+81198	583	HV ID high rate tube increased
+81198	584	HV ID high rate tube increased
+81198	585	HV ID high rate tube increased
+81198	586	HV ID high rate tube increased
+81198	587	HV ID high rate tube increased
+81198	588	HV ID high rate tube increased
+81198	589	HV ID high rate tube increased
+81198	590	HV ID high rate tube increased
+81198	591	HV ID high rate tube increased
+81198	592	HV ID high rate tube increased
+81198	593	HV ID high rate tube increased
+81198	594	HV ID high rate tube increased
+81198	595	HV ID high rate tube increased
+81198	596	HV ID high rate tube increased
+81198	597	HV ID high rate tube increased
+81198	598	HV ID high rate tube increased
+81198	599	HV ID high rate tube increased
+81198	600	HV ID high rate tube increased
+81198	601	HV ID high rate tube increased
+81198	602	HV ID high rate tube increased
+81198	603	HV ID high rate tube increased
+81198	604	HV ID high rate tube increased
+81200	0	short run
+81202	0	strange peak at z=-6m
+81204	0	short run
+81208	0	short run
+81214	605	DAQ error
+81214	606	DAQ error
+81214	607	DAQ error
+81214	608	DAQ error
+81214	609	DAQ error
+81214	610	DAQ error
+81214	611	DAQ error
+81214	612	DAQ error
+81224	0	short run
+81217	0	OD trouble
+81235	0	short run
+81236	0	short run
+81239	0	short run
+81243	0	short run
+81245	0	ID PMT trouble
+81250	255	DAQ error
+81250	256	DAQ error
+81250	257	DAQ error
+81250	258	DAQ error
+81250	259	DAQ error
+81250	260	DAQ error
+81290	0	PMT trouble
+81292	0	short run
+81294	0	ID PMT 797 noisy 
+81295	0	ID PMT 797 noisy 
+81300	0	ID PMT 269 noisy
+81301	0	ID PMT 270 noisy
+81323	0	Rn water sampling tube
+81326	531	SN LED test
+81326	532	SN LED test
+81326	533	SN LED test
+81326	534	SN LED test
+81326	535	SN LED test
+81327	0	PMT 10044 noisy
+81328	0	PMT 10045 noisy
+81330	475	Large OD spike
+81330	476	Large OD spike
+81330	477	Large OD spike
+81330	478	Large OD spike
+81330	479	Large OD spike
+81330	480	Large OD spike
+81330	481	Large OD spike
+81330	482	Large OD spike
+81330	483	Large OD spike
+81330	484	Large OD spike
+81330	485	Large OD spike
+81330	486	Large OD spike
+81330	487	Large OD spike
+81330	488	Large OD spike
+81330	489	Large OD spike
+81330	490	Large OD spike
+81330	491	Large OD spike
+81330	492	Large OD spike
+81330	493	Large OD spike
+81331	630	DAQ error
+81331	631	DAQ error
+81331	632	DAQ error
+81331	633	DAQ error
+81331	634	DAQ error
+81331	635	DAQ error
+81331	636	DAQ error
+81350	0	short run
+81364	105	DAQ error
+81364	106	DAQ error
+81364	107	DAQ error
+81364	108	DAQ error
+81364	109	DAQ error
+81364	110	DAQ error
+81366	635	HV trouble
+81366	636	HV trouble
+81366	637	HV trouble
+81366	638	HV trouble
+81366	639	HV trouble
+81366	661	HV trouble
+81366	662	HV trouble
+81366	663	HV trouble
+81366	664	HV trouble
+81366	665	HV trouble
+81369	0	max cable has a trouble
+81370	0	max cable has a trouble
+81371	0	short run
+81388	0	LED work
+81407	0	LED work
+81418	0	short run
+81510	104	SN LED test
+81510	105	SN LED test
+81576	0	short run
+81581	0	short run
+81583	0	short run
+81585	0	short run
+81657	0	short run
+81878	0	short run
+81893	0	short run
+81947	0	short run
+81956	408	DAQ error
+81956	409	DAQ error
+81956	410	DAQ error
+81956	411	DAQ error
+81956	412	DAQ error
+81956	413	DAQ error
+81956	414	DAQ error
+81957	0	short run
+81962	0	short run
+81961	357	DAQ error
+81961	358	DAQ error
+81961	359	DAQ error
+81961	360	DAQ error
+81961	361	DAQ error
+81961	362	DAQ error
+81961	363	DAQ error
+81962	0	short run
+82014	327	SN LED test
+82014	328	SN LED test
+82008	0	DAQ trouble
+82009	0	DAQ trouble
+82030	0	cluster
+82031	0	ID/OD PMT trouble is reported
+82033	0	should be test run wrong assignment
+82036	0	short run
+82037	0	short run
+82038	0	short run
+82058	0	short run
+82559	0	short run
+82069	0	short run
+82099	382	DAQ error
+82099	383	DAQ error
+82099	384	DAQ error
+82099	385	DAQ error
+82099	386	DAQ error
+82099	387	DAQ error
+82103	290	DAQ error
+82103	291	DAQ error
+82103	292	DAQ error
+82103	293	DAQ error
+82103	294	DAQ error
+82103	295	DAQ error
+82103	296	DAQ error
+82103	297	DAQ error
+82106	0	short run
+81446	800	unusual high trigger rate 
+81446	801	unusual high trigger rate 
+81446	802	unusual high trigger rate 
+81446	803	unusual high trigger rate 
+81446	804	unusual high trigger rate 
+81446	805	unusual high trigger rate 
+81446	806	unusual high trigger rate 
+81446	807	unusual high trigger rate 
+81446	808	unusual high trigger rate 
+81446	809	unusual high trigger rate 
+81446	810	unusual high trigger rate 
+81446	811	unusual high trigger rate 
+81446	812	unusual high trigger rate 
+81446	813	unusual high trigger rate 
+81446	814	unusual high trigger rate 
+81446	815	unusual high trigger rate 
+81446	816	unusual high trigger rate 
+81446	817	unusual high trigger rate 
+81446	818	unusual high trigger rate 
+81446	819	unusual high trigger rate 
+81446	820	unusual high trigger rate 
+81446	821	unusual high trigger rate 
+81446	822	unusual high trigger rate 
+81446	823	unusual high trigger rate 
+81446	824	unusual high trigger rate 
+81446	825	unusual high trigger rate 
+81446	826	unusual high trigger rate 
+81446	827	unusual high trigger rate 
+81446	828	unusual high trigger rate 
+81446	829	unusual high trigger rate 
+81446	830	unusual high trigger rate 
+81446	831	unusual high trigger rate 
+81446	832	unusual high trigger rate 
+81446	833	unusual high trigger rate 
+81446	834	unusual high trigger rate 
+81446	835	unusual high trigger rate 
+81446	836	unusual high trigger rate 
+81446	837	unusual high trigger rate 
+81446	838	unusual high trigger rate 
+81446	839	unusual high trigger rate 
+81446	840	unusual high trigger rate 
+81446	841	unusual high trigger rate 
+81446	842	unusual high trigger rate 
+81446	843	unusual high trigger rate 
+81446	844	unusual high trigger rate 
+81446	845	unusual high trigger rate 
+81446	846	unusual high trigger rate 
+81446	847	unusual high trigger rate 
+81446	848	unusual high trigger rate 
+81446	849	unusual high trigger rate 
+81446	850	unusual high trigger rate 
+81446	851	unusual high trigger rate 
+82028	620	unusual high trigger rate 
+82028	621	unusual high trigger rate 
+82028	622	unusual high trigger rate 
+82028	623	unusual high trigger rate 
+82028	624	unusual high trigger rate 
+82028	625	unusual high trigger rate 
+82028	626	unusual high trigger rate 
+82028	627	unusual high trigger rate 
+82028	628	unusual high trigger rate 
+82028	629	unusual high trigger rate 
+82028	630	unusual high trigger rate 
+82028	631	unusual high trigger rate 
+82028	632	unusual high trigger rate 
+82028	633	unusual high trigger rate 
+82028	634	unusual high trigger rate 
+82028	635	unusual high trigger rate 
+82028	636	unusual high trigger rate 
+82028	637	unusual high trigger rate 
+82028	638	unusual high trigger rate 
+82028	639	unusual high trigger rate 
+82028	640	unusual high trigger rate 
+82028	641	unusual high trigger rate 
+82028	642	unusual high trigger rate 
+82028	643	unusual high trigger rate 
+82028	644	unusual high trigger rate 
+82028	645	unusual high trigger rate 
+82028	646	unusual high trigger rate 
+82028	647	unusual high trigger rate 
+82028	648	unusual high trigger rate 
+82028	649	unusual high trigger rate 
+82028	650	unusual high trigger rate 
+82028	651	unusual high trigger rate 
+82028	652	unusual high trigger rate 
+82028	653	unusual high trigger rate 
+82028	654	unusual high trigger rate 
+82028	655	unusual high trigger rate 
+82028	656	unusual high trigger rate 
+82028	657	unusual high trigger rate 
+82028	658	unusual high trigger rate 
+82028	659	unusual high trigger rate 
+82028	660	unusual high trigger rate 
+82028	661	unusual high trigger rate 
+82028	662	unusual high trigger rate 
+82028	663	unusual high trigger rate 
+82028	664	unusual high trigger rate 
+82028	665	unusual high trigger rate 
+82028	666	unusual high trigger rate 
+82028	667	unusual high trigger rate 
+82102	1050	ID high rate tube fluctuated
+82102	1051	ID high rate tube fluctuated
+82102	1052	ID high rate tube fluctuated
+82102	1053	ID high rate tube fluctuated
+82102	1054	ID high rate tube fluctuated
+82102	1055	ID high rate tube fluctuated
+82102	1056	ID high rate tube fluctuated
+82102	1057	ID high rate tube fluctuated
+82102	1058	ID high rate tube fluctuated
+82102	1059	ID high rate tube fluctuated
+82102	1060	ID high rate tube fluctuated
+82102	1061	ID high rate tube fluctuated
+82102	1062	ID high rate tube fluctuated
+82102	1063	ID high rate tube fluctuated
+82102	1064	ID high rate tube fluctuated
+82102	1065	ID high rate tube fluctuated
+82102	1066	ID high rate tube fluctuated
+82102	1067	ID high rate tube fluctuated
+82102	1068	ID high rate tube fluctuated
+82102	1069	ID high rate tube fluctuated
+82102	1070	ID high rate tube fluctuated
+82102	1071	ID high rate tube fluctuated
+82102	1072	ID high rate tube fluctuated
+82102	1073	ID high rate tube fluctuated
+82102	1074	ID high rate tube fluctuated
+82102	1075	ID high rate tube fluctuated
+82102	1076	ID high rate tube fluctuated
+82102	1077	ID high rate tube fluctuated
+82102	1078	ID high rate tube fluctuated
+82102	1079	ID high rate tube fluctuated
+82102	1080	ID high rate tube fluctuated
+82102	1081	ID high rate tube fluctuated
+82102	1082	ID high rate tube fluctuated
+82102	1083	ID high rate tube fluctuated
+82102	1084	ID high rate tube fluctuated
+82102	1085	ID high rate tube fluctuated
+82102	1086	ID high rate tube fluctuated
+82102	1087	ID high rate tube fluctuated
+82102	1088	ID high rate tube fluctuated
+82102	1089	ID high rate tube fluctuated
+82102	1090	ID high rate tube fluctuated
+82102	1091	ID high rate tube fluctuated
+82102	1092	ID high rate tube fluctuated
+82102	1093	ID high rate tube fluctuated
+82102	1094	ID high rate tube fluctuated
+82102	1095	ID high rate tube fluctuated
+82102	1096	ID high rate tube fluctuated
+82102	1097	ID high rate tube fluctuated
+82102	1098	ID high rate tube fluctuated
+82102	1099	ID high rate tube fluctuated
+82102	1100	ID high rate tube fluctuated
+82102	1101	ID high rate tube fluctuated
+82102	1102	ID high rate tube fluctuated
+82102	1103	ID high rate tube fluctuated
+82102	1104	ID high rate tube fluctuated
+82102	1105	ID high rate tube fluctuated
+82102	1106	ID high rate tube fluctuated
+82102	1107	ID high rate tube fluctuated
+82102	1108	ID high rate tube fluctuated
+82102	1109	ID high rate tube fluctuated
+82102	1110	ID high rate tube fluctuated
+82102	1111	ID high rate tube fluctuated
+82102	1112	ID high rate tube fluctuated
+82102	1113	ID high rate tube fluctuated
+82102	1114	ID high rate tube fluctuated
+82102	1115	ID high rate tube fluctuated
+82102	1116	ID high rate tube fluctuated
+82102	1117	ID high rate tube fluctuated
+82102	1118	ID high rate tube fluctuated
+82102	1119	ID high rate tube fluctuated
+82102	1120	ID high rate tube fluctuated
+82102	1121	ID high rate tube fluctuated
+82102	1122	ID high rate tube fluctuated
+82102	1123	ID high rate tube fluctuated
+82102	1124	ID high rate tube fluctuated
+82102	1125	ID high rate tube fluctuated
+82102	1126	ID high rate tube fluctuated
+82102	1127	ID high rate tube fluctuated
+82102	1128	ID high rate tube fluctuated
+82102	1129	ID high rate tube fluctuated
+82102	1130	ID high rate tube fluctuated
+82102	1131	ID high rate tube fluctuated
+82102	1132	ID high rate tube fluctuated
+82102	1133	ID high rate tube fluctuated
+82102	1134	ID high rate tube fluctuated
+82102	1135	ID high rate tube fluctuated
+82102	1136	ID high rate tube fluctuated
+82102	1137	ID high rate tube fluctuated
+82102	1138	ID high rate tube fluctuated
+82102	1139	ID high rate tube fluctuated
+82102	1140	ID high rate tube fluctuated
+82102	1141	ID high rate tube fluctuated
+82102	1142	ID high rate tube fluctuated
+82102	1143	ID high rate tube fluctuated
+82102	1144	ID high rate tube fluctuated
+82102	1145	ID high rate tube fluctuated
+82102	1146	ID high rate tube fluctuated
+82102	1147	ID high rate tube fluctuated
+82102	1148	ID high rate tube fluctuated
+82102	1149	ID high rate tube fluctuated
+82102	1150	ID high rate tube fluctuated
+82102	1151	ID high rate tube fluctuated
+82102	1152	ID high rate tube fluctuated
+82102	1153	ID high rate tube fluctuated
+82102	1154	ID high rate tube fluctuated
+82102	1155	ID high rate tube fluctuated
+82102	1156	ID high rate tube fluctuated
+82102	1157	ID high rate tube fluctuated
+82102	1158	ID high rate tube fluctuated
+82102	1159	ID high rate tube fluctuated
+82102	1160	ID high rate tube fluctuated
+82102	1161	ID high rate tube fluctuated
+82102	1162	ID high rate tube fluctuated
+82102	1163	ID high rate tube fluctuated
+82102	1164	ID high rate tube fluctuated
+82102	1165	ID high rate tube fluctuated
+82102	1166	ID high rate tube fluctuated
+82102	1167	ID high rate tube fluctuated
+82102	1168	ID high rate tube fluctuated
+82102	1169	ID high rate tube fluctuated
+82102	1170	ID high rate tube fluctuated
+82102	1171	ID high rate tube fluctuated
+82102	1172	ID high rate tube fluctuated
+82102	1173	ID high rate tube fluctuated
+82102	1174	ID high rate tube fluctuated
+82102	1175	ID high rate tube fluctuated
+82102	1176	ID high rate tube fluctuated
+82145	0	Short Run
+82179	661	DAQ Error
+82179	662	DAQ Error
+82179	663	DAQ Error
+82194	0	Short Run
+82211	0	Short Run
+82212	0	Short Run
+82251	0	Short Run
+82122	1000	ID high rate tube fluctuated
+82122	1001	ID high rate tube fluctuated
+82122	1002	ID high rate tube fluctuated
+82122	1003	ID high rate tube fluctuated
+82122	1004	ID high rate tube fluctuated
+82122	1005	ID high rate tube fluctuated
+82122	1006	ID high rate tube fluctuated
+82122	1007	ID high rate tube fluctuated
+82122	1008	ID high rate tube fluctuated
+82122	1009	ID high rate tube fluctuated
+82122	1010	ID high rate tube fluctuated
+82122	1011	ID high rate tube fluctuated
+82122	1012	ID high rate tube fluctuated
+82122	1013	ID high rate tube fluctuated
+82122	1014	ID high rate tube fluctuated
+82122	1015	ID high rate tube fluctuated
+82122	1016	ID high rate tube fluctuated
+82122	1017	ID high rate tube fluctuated
+82122	1018	ID high rate tube fluctuated
+82122	1019	ID high rate tube fluctuated
+82122	1020	ID high rate tube fluctuated
+82122	1021	ID high rate tube fluctuated
+82122	1022	ID high rate tube fluctuated
+82122	1023	ID high rate tube fluctuated
+82122	1024	ID high rate tube fluctuated
+82122	1025	ID high rate tube fluctuated
+82122	1026	ID high rate tube fluctuated
+82122	1027	ID high rate tube fluctuated
+82122	1028	ID high rate tube fluctuated
+82122	1029	ID high rate tube fluctuated
+82122	1030	ID high rate tube fluctuated
+82122	1031	ID high rate tube fluctuated
+82122	1032	ID high rate tube fluctuated
+82122	1033	ID high rate tube fluctuated
+82122	1034	ID high rate tube fluctuated
+82122	1035	ID high rate tube fluctuated
+82122	1036	ID high rate tube fluctuated
+82122	1037	ID high rate tube fluctuated
+82122	1038	ID high rate tube fluctuated
+82122	1039	ID high rate tube fluctuated
+82122	1040	ID high rate tube fluctuated
+82122	1041	ID high rate tube fluctuated
+82122	1042	ID high rate tube fluctuated
+82122	1043	ID high rate tube fluctuated
+82122	1044	ID high rate tube fluctuated
+82122	1045	ID high rate tube fluctuated
+82122	1046	ID high rate tube fluctuated
+82122	1047	ID high rate tube fluctuated
+82122	1048	ID high rate tube fluctuated
+82122	1049	ID high rate tube fluctuated
+82122	1050	ID high rate tube fluctuated
+82122	1051	ID high rate tube fluctuated
+82122	1052	ID high rate tube fluctuated
+82122	1053	ID high rate tube fluctuated
+82122	1054	ID high rate tube fluctuated
+82122	1055	ID high rate tube fluctuated
+82122	1056	ID high rate tube fluctuated
+82122	1057	ID high rate tube fluctuated
+82122	1058	ID high rate tube fluctuated
+82122	1059	ID high rate tube fluctuated
+82122	1060	ID high rate tube fluctuated
+82122	1061	ID high rate tube fluctuated
+82122	1062	ID high rate tube fluctuated
+82122	1063	ID high rate tube fluctuated
+82122	1064	ID high rate tube fluctuated
+82122	1065	ID high rate tube fluctuated
+82122	1066	ID high rate tube fluctuated
+82122	1067	ID high rate tube fluctuated
+82122	1068	ID high rate tube fluctuated
+82122	1069	ID high rate tube fluctuated
+82122	1070	ID high rate tube fluctuated
+82122	1071	ID high rate tube fluctuated
+82122	1072	ID high rate tube fluctuated
+82122	1073	ID high rate tube fluctuated
+82122	1074	ID high rate tube fluctuated
+82122	1075	ID high rate tube fluctuated
+82122	1076	ID high rate tube fluctuated
+82122	1077	ID high rate tube fluctuated
+82122	1078	ID high rate tube fluctuated
+82122	1079	ID high rate tube fluctuated
+82122	1080	ID high rate tube fluctuated
+82122	1081	ID high rate tube fluctuated
+82122	1082	ID high rate tube fluctuated
+82122	1083	ID high rate tube fluctuated
+82122	1084	ID high rate tube fluctuated
+82122	1085	ID high rate tube fluctuated
+82122	1086	ID high rate tube fluctuated
+82122	1087	ID high rate tube fluctuated
+82122	1088	ID high rate tube fluctuated
+82122	1089	ID high rate tube fluctuated
+82122	1090	ID high rate tube fluctuated
+82122	1091	ID high rate tube fluctuated
+82122	1092	ID high rate tube fluctuated
+82122	1093	ID high rate tube fluctuated
+82122	1094	ID high rate tube fluctuated
+82122	1095	ID high rate tube fluctuated
+82122	1096	ID high rate tube fluctuated
+82122	1097	ID high rate tube fluctuated
+82122	1098	ID high rate tube fluctuated
+82122	1099	ID high rate tube fluctuated
+82122	1100	ID high rate tube fluctuated
+82122	1101	ID high rate tube fluctuated
+82122	1102	ID high rate tube fluctuated
+82122	1103	ID high rate tube fluctuated
+82122	1104	ID high rate tube fluctuated
+82122	1105	ID high rate tube fluctuated
+82122	1106	ID high rate tube fluctuated
+82122	1107	ID high rate tube fluctuated
+82122	1108	ID high rate tube fluctuated
+82122	1109	ID high rate tube fluctuated
+82122	1110	ID high rate tube fluctuated
+82122	1111	ID high rate tube fluctuated
+82122	1112	ID high rate tube fluctuated
+82122	1113	ID high rate tube fluctuated
+82122	1114	ID high rate tube fluctuated
+82122	1115	ID high rate tube fluctuated
+82122	1116	ID high rate tube fluctuated
+82122	1117	ID high rate tube fluctuated
+82122	1118	ID high rate tube fluctuated
+82122	1119	ID high rate tube fluctuated
+82122	1120	ID high rate tube fluctuated
+82122	1121	ID high rate tube fluctuated
+82122	1122	ID high rate tube fluctuated
+82122	1123	ID high rate tube fluctuated
+82122	1124	ID high rate tube fluctuated
+82122	1125	ID high rate tube fluctuated
+82122	1126	ID high rate tube fluctuated
+82122	1127	ID high rate tube fluctuated
+82122	1128	ID high rate tube fluctuated
+82122	1129	ID high rate tube fluctuated
+82122	1130	ID high rate tube fluctuated
+82122	1131	ID high rate tube fluctuated
+82122	1132	ID high rate tube fluctuated
+82122	1133	ID high rate tube fluctuated
+82122	1134	ID high rate tube fluctuated
+82122	1135	ID high rate tube fluctuated
+82122	1136	ID high rate tube fluctuated
+82122	1137	ID high rate tube fluctuated
+82122	1138	ID high rate tube fluctuated
+82122	1139	ID high rate tube fluctuated
+82122	1140	ID high rate tube fluctuated
+82122	1141	ID high rate tube fluctuated
+82122	1142	ID high rate tube fluctuated
+82122	1143	ID high rate tube fluctuated
+82122	1144	ID high rate tube fluctuated
+82122	1145	ID high rate tube fluctuated
+82122	1146	ID high rate tube fluctuated
+82122	1147	ID high rate tube fluctuated
+82122	1148	ID high rate tube fluctuated
+82283	328	DAQ Error
+82283	329	DAQ Error
+82283	330	DAQ Error
+82283	331	DAQ Error
+82283	332	DAQ Error
+82329	0	Short Run
+82330	0	Short Run
+82331	0	Short Run
+82332	0	Short Run
+82333	0	Short Run
+82336	665	DAQ Error
+82336	666	DAQ Error
+82336	667	DAQ Error
+82336	668	DAQ Error
+82336	669	DAQ Error
+82282	894	DAQ Error
+82282	895	DAQ Error
+82282	896	DAQ Error
+82282	897	DAQ Error
+82282	898	DAQ Error
+82283	328	DAQ Error
+82283	329	DAQ Error
+82283	330	DAQ Error
+82283	331	DAQ Error
+82283	332	DAQ Error
+82288	159	DAQ Error
+82288	160	DAQ Error
+82288	161	DAQ Error
+82288	162	DAQ Error
+82288	163	DAQ Error
+82289	352	DAQ Error
+82289	353	DAQ Error
+82289	354	DAQ Error
+82289	355	DAQ Error
+82289	356	DAQ Error
+82284	425	OD lowe rate tube
+82284	426	OD lowe rate tube
+82284	427	OD lowe rate tube
+82284	428	OD lowe rate tube
+82284	429	OD lowe rate tube
+82284	430	OD lowe rate tube
+82284	431	OD lowe rate tube
+82284	432	OD lowe rate tube
+82284	433	OD lowe rate tube
+82284	434	OD lowe rate tube
+82284	435	OD lowe rate tube
+82284	436	OD lowe rate tube
+82284	437	OD lowe rate tube
+82284	438	OD lowe rate tube
+82284	439	OD lowe rate tube
+82284	440	OD lowe rate tube
+82284	441	OD lowe rate tube
+82284	442	OD lowe rate tube
+82284	443	OD lowe rate tube
+82284	444	OD lowe rate tube
+82284	445	OD lowe rate tube
+82284	446	OD lowe rate tube
+82284	447	OD lowe rate tube
+82284	448	OD lowe rate tube
+82284	449	OD lowe rate tube
+82284	450	OD lowe rate tube
+82284	451	OD lowe rate tube
+82284	452	OD lowe rate tube
+82387	669	ID PMT spike
+82387	670	ID PMT spike
+82387	671	ID PMT spike
+82387	672	ID PMT spike
+82387	673	ID PMT spike
+82387	674	ID PMT spike
+82387	675	ID PMT spike
+82387	676	ID PMT spike
+82387	677	ID PMT spike
+82387	678	ID PMT spike
+82387	679	ID PMT spike
+82387	680	ID PMT spike
+82387	681	ID PMT spike
+82387	682	ID PMT spike
+82350	100	ID high rate tube fluctuated
+82350	101	ID high rate tube fluctuated
+82350	102	ID high rate tube fluctuated
+82350	103	ID high rate tube fluctuated
+82350	104	ID high rate tube fluctuated
+82350	105	ID high rate tube fluctuated
+82350	106	ID high rate tube fluctuated
+82350	107	ID high rate tube fluctuated
+82350	108	ID high rate tube fluctuated
+82350	109	ID high rate tube fluctuated
+82350	110	ID high rate tube fluctuated
+82350	111	ID high rate tube fluctuated
+82350	112	ID high rate tube fluctuated
+82350	113	ID high rate tube fluctuated
+82350	114	ID high rate tube fluctuated
+82350	115	ID high rate tube fluctuated
+82350	116	ID high rate tube fluctuated
+82350	117	ID high rate tube fluctuated
+82350	118	ID high rate tube fluctuated
+82350	119	ID high rate tube fluctuated
+82350	120	ID high rate tube fluctuated
+82350	121	ID high rate tube fluctuated
+82350	122	ID high rate tube fluctuated
+82350	123	ID high rate tube fluctuated
+82350	124	ID high rate tube fluctuated
+82350	125	ID high rate tube fluctuated
+82350	126	ID high rate tube fluctuated
+82350	127	ID high rate tube fluctuated
+82350	128	ID high rate tube fluctuated
+82350	129	ID high rate tube fluctuated
+82350	130	ID high rate tube fluctuated
+82350	131	ID high rate tube fluctuated
+82350	132	ID high rate tube fluctuated
+82350	133	ID high rate tube fluctuated
+82350	134	ID high rate tube fluctuated
+82350	135	ID high rate tube fluctuated
+82350	136	ID high rate tube fluctuated
+82350	137	ID high rate tube fluctuated
+82350	138	ID high rate tube fluctuated
+82350	139	ID high rate tube fluctuated
+82350	140	ID high rate tube fluctuated
+82350	141	ID high rate tube fluctuated
+82350	142	ID high rate tube fluctuated
+82350	143	ID high rate tube fluctuated
+82350	144	ID high rate tube fluctuated
+82350	145	ID high rate tube fluctuated
+82350	146	ID high rate tube fluctuated
+82350	147	ID high rate tube fluctuated
+82350	148	ID high rate tube fluctuated
+82350	149	ID high rate tube fluctuated
+82350	150	ID high rate tube fluctuated
+82350	151	ID high rate tube fluctuated
+82350	152	ID high rate tube fluctuated
+82350	153	ID high rate tube fluctuated
+82350	154	ID high rate tube fluctuated
+82350	155	ID high rate tube fluctuated
+82350	156	ID high rate tube fluctuated
+82350	157	ID high rate tube fluctuated
+82350	158	ID high rate tube fluctuated
+82350	159	ID high rate tube fluctuated
+82350	160	ID high rate tube fluctuated
+82350	161	ID high rate tube fluctuated
+82350	162	ID high rate tube fluctuated
+82350	163	ID high rate tube fluctuated
+82350	164	ID high rate tube fluctuated
+82350	165	ID high rate tube fluctuated
+82350	166	ID high rate tube fluctuated
+82350	167	ID high rate tube fluctuated
+82350	168	ID high rate tube fluctuated
+82350	169	ID high rate tube fluctuated
+82350	170	ID high rate tube fluctuated
+82350	171	ID high rate tube fluctuated
+82350	172	ID high rate tube fluctuated
+82350	173	ID high rate tube fluctuated
+82350	174	ID high rate tube fluctuated
+82350	175	ID high rate tube fluctuated
+82350	176	ID high rate tube fluctuated
+82350	177	ID high rate tube fluctuated
+82350	178	ID high rate tube fluctuated
+82350	179	ID high rate tube fluctuated
+82350	180	ID high rate tube fluctuated
+82350	181	ID high rate tube fluctuated
+82350	182	ID high rate tube fluctuated
+82350	183	ID high rate tube fluctuated
+82350	184	ID high rate tube fluctuated
+82350	185	ID high rate tube fluctuated
+82350	186	ID high rate tube fluctuated
+82350	187	ID high rate tube fluctuated
+82350	188	ID high rate tube fluctuated
+82350	189	ID high rate tube fluctuated
+82350	190	ID high rate tube fluctuated
+82350	191	ID high rate tube fluctuated
+82350	192	ID high rate tube fluctuated
+82350	193	ID high rate tube fluctuated
+82350	194	ID high rate tube fluctuated
+82350	195	ID high rate tube fluctuated
+82350	196	ID high rate tube fluctuated
+82350	197	ID high rate tube fluctuated
+82350	198	ID high rate tube fluctuated
+82350	199	ID high rate tube fluctuated
+82350	200	ID high rate tube fluctuated
+82350	201	ID high rate tube fluctuated
+82350	202	ID high rate tube fluctuated
+82350	203	ID high rate tube fluctuated
+82350	204	ID high rate tube fluctuated
+82350	205	ID high rate tube fluctuated
+82350	206	ID high rate tube fluctuated
+82350	207	ID high rate tube fluctuated
+82350	208	ID high rate tube fluctuated
+82350	209	ID high rate tube fluctuated
+82350	210	ID high rate tube fluctuated
+82350	211	ID high rate tube fluctuated
+82350	212	ID high rate tube fluctuated
+82350	213	ID high rate tube fluctuated
+82350	214	ID high rate tube fluctuated
+82350	215	ID high rate tube fluctuated
+82350	216	ID high rate tube fluctuated
+82350	217	ID high rate tube fluctuated
+82350	218	ID high rate tube fluctuated
+82350	219	ID high rate tube fluctuated
+82350	220	ID high rate tube fluctuated
+82350	221	ID high rate tube fluctuated
+82350	222	ID high rate tube fluctuated
+82350	223	ID high rate tube fluctuated
+82350	224	ID high rate tube fluctuated
+82350	225	ID high rate tube fluctuated
+82350	226	ID high rate tube fluctuated
+82350	227	ID high rate tube fluctuated
+82350	228	ID high rate tube fluctuated
+82350	229	ID high rate tube fluctuated
+82350	230	ID high rate tube fluctuated
+82350	231	ID high rate tube fluctuated
+82350	232	ID high rate tube fluctuated
+82350	233	ID high rate tube fluctuated
+82350	234	ID high rate tube fluctuated
+82350	235	ID high rate tube fluctuated
+82350	236	ID high rate tube fluctuated
+82350	237	ID high rate tube fluctuated
+82350	238	ID high rate tube fluctuated
+82350	239	ID high rate tube fluctuated
+82350	240	ID high rate tube fluctuated
+82350	241	ID high rate tube fluctuated
+82350	242	ID high rate tube fluctuated
+82350	243	ID high rate tube fluctuated
+82350	244	ID high rate tube fluctuated
+82350	245	ID high rate tube fluctuated
+82350	246	ID high rate tube fluctuated
+82350	247	ID high rate tube fluctuated
+82350	248	ID high rate tube fluctuated
+82350	249	ID high rate tube fluctuated
+82350	250	ID high rate tube fluctuated
+82350	251	ID high rate tube fluctuated
+82350	252	ID high rate tube fluctuated
+82350	253	ID high rate tube fluctuated
+82350	254	ID high rate tube fluctuated
+82350	255	ID high rate tube fluctuated
+82350	256	ID high rate tube fluctuated
+82350	257	ID high rate tube fluctuated
+82350	258	ID high rate tube fluctuated
+82350	259	ID high rate tube fluctuated
+82350	260	ID high rate tube fluctuated
+82350	261	ID high rate tube fluctuated
+82350	262	ID high rate tube fluctuated
+82350	263	ID high rate tube fluctuated
+82350	264	ID high rate tube fluctuated
+82350	265	ID high rate tube fluctuated
+82350	266	ID high rate tube fluctuated
+82350	267	ID high rate tube fluctuated
+82350	268	ID high rate tube fluctuated
+82350	269	ID high rate tube fluctuated
+82350	270	ID high rate tube fluctuated
+82350	271	ID high rate tube fluctuated
+82350	272	ID high rate tube fluctuated
+82350	273	ID high rate tube fluctuated
+82350	274	ID high rate tube fluctuated
+82350	275	ID high rate tube fluctuated
+82350	276	ID high rate tube fluctuated
+82350	277	ID high rate tube fluctuated
+82350	278	ID high rate tube fluctuated
+82350	279	ID high rate tube fluctuated
+82350	280	ID high rate tube fluctuated
+82350	281	ID high rate tube fluctuated
+82350	282	ID high rate tube fluctuated
+82350	283	ID high rate tube fluctuated
+82350	284	ID high rate tube fluctuated
+82350	285	ID high rate tube fluctuated
+82350	286	ID high rate tube fluctuated
+82350	287	ID high rate tube fluctuated
+82350	288	ID high rate tube fluctuated
+82350	289	ID high rate tube fluctuated
+82350	290	ID high rate tube fluctuated
+82350	291	ID high rate tube fluctuated
+82350	292	ID high rate tube fluctuated
+82350	293	ID high rate tube fluctuated
+82350	294	ID high rate tube fluctuated
+82350	295	ID high rate tube fluctuated
+82350	296	ID high rate tube fluctuated
+82350	297	ID high rate tube fluctuated
+82350	298	ID high rate tube fluctuated
+82350	299	ID high rate tube fluctuated
+82350	300	ID high rate tube fluctuated
+82350	301	ID high rate tube fluctuated
+82350	302	ID high rate tube fluctuated
+82350	303	ID high rate tube fluctuated
+82350	304	ID high rate tube fluctuated
+82350	305	ID high rate tube fluctuated
+82350	306	ID high rate tube fluctuated
+82350	307	ID high rate tube fluctuated
+82350	308	ID high rate tube fluctuated
+82350	309	ID high rate tube fluctuated
+82350	310	ID high rate tube fluctuated
+82350	311	ID high rate tube fluctuated
+82350	312	ID high rate tube fluctuated
+82350	313	ID high rate tube fluctuated
+82350	314	ID high rate tube fluctuated
+82350	315	ID high rate tube fluctuated
+82350	316	ID high rate tube fluctuated
+82350	317	ID high rate tube fluctuated
+82350	318	ID high rate tube fluctuated
+82350	319	ID high rate tube fluctuated
+82350	320	ID high rate tube fluctuated
+82350	321	ID high rate tube fluctuated
+82350	322	ID high rate tube fluctuated
+82350	323	ID high rate tube fluctuated
+82350	324	ID high rate tube fluctuated
+82350	325	ID high rate tube fluctuated
+82350	326	ID high rate tube fluctuated
+82350	327	ID high rate tube fluctuated
+82350	328	ID high rate tube fluctuated
+82350	329	ID high rate tube fluctuated
+82350	330	ID high rate tube fluctuated
+82350	331	ID high rate tube fluctuated
+82350	332	ID high rate tube fluctuated
+82350	333	ID high rate tube fluctuated
+82350	334	ID high rate tube fluctuated
+82350	335	ID high rate tube fluctuated
+82350	336	ID high rate tube fluctuated
+82350	337	ID high rate tube fluctuated
+82350	338	ID high rate tube fluctuated
+82350	339	ID high rate tube fluctuated
+82350	340	ID high rate tube fluctuated
+82350	341	ID high rate tube fluctuated
+82350	342	ID high rate tube fluctuated
+82350	343	ID high rate tube fluctuated
+82350	344	ID high rate tube fluctuated
+82350	345	ID high rate tube fluctuated
+82350	346	ID high rate tube fluctuated
+82350	347	ID high rate tube fluctuated
+82350	348	ID high rate tube fluctuated
+82350	349	ID high rate tube fluctuated
+82350	350	ID high rate tube fluctuated
+82350	351	ID high rate tube fluctuated
+82350	352	ID high rate tube fluctuated
+82350	353	ID high rate tube fluctuated
+82350	354	ID high rate tube fluctuated
+82350	355	ID high rate tube fluctuated
+82350	356	ID high rate tube fluctuated
+82350	357	ID high rate tube fluctuated
+82350	358	ID high rate tube fluctuated
+82350	359	ID high rate tube fluctuated
+82350	360	ID high rate tube fluctuated
+82350	361	ID high rate tube fluctuated
+82350	362	ID high rate tube fluctuated
+82350	363	ID high rate tube fluctuated
+82350	364	ID high rate tube fluctuated
+82350	365	ID high rate tube fluctuated
+82350	366	ID high rate tube fluctuated
+82350	367	ID high rate tube fluctuated
+82350	368	ID high rate tube fluctuated
+82350	369	ID high rate tube fluctuated
+82350	370	ID high rate tube fluctuated
+82350	371	ID high rate tube fluctuated
+82350	372	ID high rate tube fluctuated
+82350	373	ID high rate tube fluctuated
+82350	374	ID high rate tube fluctuated
+82350	375	ID high rate tube fluctuated
+82350	376	ID high rate tube fluctuated
+82350	377	ID high rate tube fluctuated
+82350	378	ID high rate tube fluctuated
+82350	379	ID high rate tube fluctuated
+82350	380	ID high rate tube fluctuated
+82350	381	ID high rate tube fluctuated
+82350	382	ID high rate tube fluctuated
+82350	383	ID high rate tube fluctuated
+82350	384	ID high rate tube fluctuated
+82350	385	ID high rate tube fluctuated
+82350	386	ID high rate tube fluctuated
+82350	387	ID high rate tube fluctuated
+82350	388	ID high rate tube fluctuated
+82350	389	ID high rate tube fluctuated
+82350	390	ID high rate tube fluctuated
+82350	391	ID high rate tube fluctuated
+82350	392	ID high rate tube fluctuated
+82350	393	ID high rate tube fluctuated
+82350	394	ID high rate tube fluctuated
+82350	395	ID high rate tube fluctuated
+82350	396	ID high rate tube fluctuated
+82350	397	ID high rate tube fluctuated
+82350	398	ID high rate tube fluctuated
+82350	399	ID high rate tube fluctuated
+82350	400	ID high rate tube fluctuated
+82398	0	Short Run
+82434	390	DAQ Error
+82434	390	DAQ Error
+82434	390	DAQ Error
+82434	390	DAQ Error
+82434	390	DAQ Error
+82400	232	DAQ Error
+82400	233	DAQ Error
+82400	234	DAQ Error
+82400	235	DAQ Error
+82484	0	short run
+82485	0	short run
+82486	0	short run
+82498	0	short run
+82530	126	OD HV trouble
+82530	127	OD HV trouble
+82530	128	OD HV trouble
+82530	129	OD HV trouble
+82530	130	OD HV trouble
+82539	0	short run
+82550	620	OD lowe rate tube
+82550	621	OD lowe rate tube
+82550	622	OD lowe rate tube
+82550	623	OD lowe rate tube
+82550	624	OD lowe rate tube
+82550	625	OD lowe rate tube
+82550	626	OD lowe rate tube
+82550	627	OD lowe rate tube
+82550	628	OD lowe rate tube
+82550	629	OD lowe rate tube
+82550	630	OD lowe rate tube
+82550	631	OD lowe rate tube
+82550	632	OD lowe rate tube
+82550	633	OD lowe rate tube
+82550	634	OD lowe rate tube
+82550	635	OD lowe rate tube
+82550	636	OD lowe rate tube
+82550	637	OD lowe rate tube
+82550	638	OD lowe rate tube
+82550	639	OD lowe rate tube
+82550	640	OD lowe rate tube
+82550	641	OD lowe rate tube
+82550	642	OD lowe rate tube
+82550	643	OD lowe rate tube
+82550	644	OD lowe rate tube
+82550	645	OD lowe rate tube
+82550	646	OD lowe rate tube
+82550	647	OD lowe rate tube
+82550	648	OD lowe rate tube
+82550	649	OD lowe rate tube
+82550	650	OD lowe rate tube
+82550	651	OD lowe rate tube
+82550	652	OD lowe rate tube
+82550	653	OD lowe rate tube
+82550	654	OD lowe rate tube
+82550	655	OD lowe rate tube
+82550	656	OD lowe rate tube
+82550	657	OD lowe rate tube
+82550	658	OD lowe rate tube
+82550	659	OD lowe rate tube
+82550	660	OD lowe rate tube
+82550	661	OD lowe rate tube
+82550	662	OD lowe rate tube
+82550	663	OD lowe rate tube
+82550	664	OD lowe rate tube
+82550	665	OD lowe rate tube
+82550	666	OD lowe rate tube
+82550	667	OD lowe rate tube
+82550	668	OD lowe rate tube
+82550	669	OD lowe rate tube
+82550	670	OD lowe rate tube
+82550	671	OD lowe rate tube
+82550	672	OD lowe rate tube
+82550	673	OD lowe rate tube
+82550	674	OD lowe rate tube
+82550	675	OD lowe rate tube
+82550	676	OD lowe rate tube
+82550	677	OD lowe rate tube
+82550	678	OD lowe rate tube
+82550	679	OD lowe rate tube
+82550	680	OD lowe rate tube
+82550	681	OD lowe rate tube
+82550	682	OD lowe rate tube
+82550	683	OD lowe rate tube
+82550	684	OD lowe rate tube
+82550	685	OD lowe rate tube
+82550	686	OD lowe rate tube
+82550	687	OD lowe rate tube
+82550	688	OD lowe rate tube
+82550	689	OD lowe rate tube
+82550	690	OD lowe rate tube
+82550	691	OD lowe rate tube
+82550	692	OD lowe rate tube
+82550	693	OD lowe rate tube
+82550	694	OD lowe rate tube
+82550	695	OD lowe rate tube
+82550	696	OD lowe rate tube
+82550	697	OD lowe rate tube
+82550	698	OD lowe rate tube
+82550	699	OD lowe rate tube
+82550	700	OD lowe rate tube
+82550	701	OD lowe rate tube
+82550	702	OD lowe rate tube
+82550	703	OD lowe rate tube
+82550	704	OD lowe rate tube
+82550	705	OD lowe rate tube
+82550	706	OD lowe rate tube
+82550	707	OD lowe rate tube
+82550	708	OD lowe rate tube
+82550	709	OD lowe rate tube
+82550	710	OD lowe rate tube
+82550	711	OD lowe rate tube
+82550	712	OD lowe rate tube
+82550	713	OD lowe rate tube
+82550	714	OD lowe rate tube
+82550	715	OD lowe rate tube
+82550	716	OD lowe rate tube
+82550	717	OD lowe rate tube
+82550	718	OD lowe rate tube
+82550	719	OD lowe rate tube
+82550	720	OD lowe rate tube
+82550	721	OD lowe rate tube
+82550	722	OD lowe rate tube
+82550	723	OD lowe rate tube
+82550	724	OD lowe rate tube
+82550	725	OD lowe rate tube
+82550	726	OD lowe rate tube
+82550	727	OD lowe rate tube
+82550	728	OD lowe rate tube
+82550	729	OD lowe rate tube
+82550	730	OD lowe rate tube
+82550	731	OD lowe rate tube
+82550	732	OD lowe rate tube
+82550	733	OD lowe rate tube
+82550	734	OD lowe rate tube
+82550	735	OD lowe rate tube
+82550	736	OD lowe rate tube
+82550	737	OD lowe rate tube
+82550	738	OD lowe rate tube
+82550	739	OD lowe rate tube
+82550	740	OD lowe rate tube
+82550	741	OD lowe rate tube
+82550	742	OD lowe rate tube
+82550	743	OD lowe rate tube
+82550	744	OD lowe rate tube
+82550	745	OD lowe rate tube
+82550	746	OD lowe rate tube
+82550	747	OD lowe rate tube
+82550	748	OD lowe rate tube
+82550	749	OD lowe rate tube
+82550	750	OD lowe rate tube
+82550	751	OD lowe rate tube
+82550	752	OD lowe rate tube
+82550	753	OD lowe rate tube
+82550	754	OD lowe rate tube
+82550	755	OD lowe rate tube
+82550	756	OD lowe rate tube
+82550	757	OD lowe rate tube
+82550	758	OD lowe rate tube
+82550	759	OD lowe rate tube
+82550	760	OD lowe rate tube
+82550	761	OD lowe rate tube
+82550	762	OD lowe rate tube
+82550	763	OD lowe rate tube
+82550	764	OD lowe rate tube
+82550	765	OD lowe rate tube
+82550	766	OD lowe rate tube
+82550	767	OD lowe rate tube
+82550	768	OD lowe rate tube
+82550	769	OD lowe rate tube
+82550	770	OD lowe rate tube
+82550	771	OD lowe rate tube
+82550	772	OD lowe rate tube
+82550	773	OD lowe rate tube
+82588	0	short run
+82602	0	short run
+82605	0	short run
+82614	0	short run
+82633	0	ID PMT trouble(7059)
+82748	167	SN LED test
+82748	168	SN LED test
+82737	50	SN LED test
+82737	51	SN LED test
+82637	226	SN LED test
+82637	227	SN LED test
+82585	984	SN LED test
+82585	985	SN LED test
+82417	808	SN LED test
+82417	809	SN LED test
+82014	327	SN LED test
+82014	328	SN LED test
+81510	104	SN LED test
+81510	105	SN LED test
+81053	32	SN LED test
+81053	33	SN LED test
+80864	7	SN LED test
+80804	3	SN LED test
+80804	4	SN LED test
+81976	58	muon rate
+82028	1	muon rate
+82028	2	muon rate
+82028	3	muon rate
+82028	4	muon rate
+82028	5	muon rate
+82028	6	muon rate
+82028	7	muon rate
+82028	8	muon rate
+82028	9	muon rate
+82028	10	muon rate
+82028	11	muon rate
+82028	12	muon rate
+82028	13	muon rate
+82028	14	muon rate
+82028	15	muon rate
+82028	16	muon rate
+82028	17	muon rate
+82028	18	muon rate
+82028	19	muon rate
+82028	20	muon rate
+82028	21	muon rate
+82028	22	muon rate
+82028	23	muon rate
+82028	24	muon rate
+82028	25	muon rate
+82028	26	muon rate
+82028	27	muon rate
+82028	28	muon rate
+82028	29	muon rate
+82028	30	muon rate
+82028	31	muon rate
+82028	32	muon rate
+82028	33	muon rate
+82028	34	muon rate
+82028	35	muon rate
+82028	36	muon rate
+82028	37	muon rate
+82028	38	muon rate
+82028	39	muon rate
+82028	40	muon rate
+82028	41	muon rate
+82028	42	muon rate
+82028	43	muon rate
+82028	44	muon rate
+82028	45	muon rate
+82028	46	muon rate
+82028	47	muon rate
+82028	48	muon rate
+82028	49	muon rate
+82028	50	muon rate
+82028	51	muon rate
+82028	52	muon rate
+82028	53	muon rate
+82028	54	muon rate
+82028	55	muon rate
+82028	56	muon rate
+82028	57	muon rate
+82028	58	muon rate
+82028	59	muon rate
+82028	60	muon rate
+82028	61	muon rate
+82028	62	muon rate
+82028	63	muon rate
+82028	64	muon rate
+82028	65	muon rate
+82028	66	muon rate
+82028	67	muon rate
+82028	68	muon rate
+82028	69	muon rate
+82028	70	muon rate
+82028	71	muon rate
+82028	72	muon rate
+82028	73	muon rate
+82028	74	muon rate
+82028	75	muon rate
+82028	76	muon rate
+82028	77	muon rate
+82028	78	muon rate
+82028	79	muon rate
+82028	80	muon rate
+82028	81	muon rate
+82028	82	muon rate
+82028	83	muon rate
+82028	84	muon rate
+82028	85	muon rate
+82028	86	muon rate
+82028	87	muon rate
+82028	88	muon rate
+82028	89	muon rate
+82028	90	muon rate
+82028	91	muon rate
+82028	92	muon rate
+82028	93	muon rate
+82028	94	muon rate
+82028	95	muon rate
+82028	96	muon rate
+82028	97	muon rate
+82028	98	muon rate
+82028	99	muon rate
+82028	100	muon rate
+82028	101	muon rate
+82028	102	muon rate
+82028	103	muon rate
+82028	104	muon rate
+82028	105	muon rate
+82028	106	muon rate
+82028	107	muon rate
+82028	108	muon rate
+82028	109	muon rate
+82028	110	muon rate
+82028	111	muon rate
+82028	112	muon rate
+82028	113	muon rate
+82028	114	muon rate
+82028	115	muon rate
+82028	116	muon rate
+82028	117	muon rate
+82028	118	muon rate
+82028	119	muon rate
+82028	120	muon rate
+82028	121	muon rate
+82028	122	muon rate
+82028	123	muon rate
+82028	124	muon rate
+82028	125	muon rate
+82028	126	muon rate
+82028	127	muon rate
+82028	128	muon rate
+82028	129	muon rate
+82028	130	muon rate
+82028	131	muon rate
+82028	132	muon rate
+82028	133	muon rate
+82028	134	muon rate
+82028	135	muon rate
+82028	136	muon rate
+82028	137	muon rate
+82028	138	muon rate
+82028	139	muon rate
+82028	140	muon rate
+82028	141	muon rate
+82028	142	muon rate
+82028	143	muon rate
+82028	144	muon rate
+82028	145	muon rate
+82028	146	muon rate
+82028	147	muon rate
+82028	148	muon rate
+82028	149	muon rate
+82028	150	muon rate
+82028	151	muon rate
+82028	152	muon rate
+82028	153	muon rate
+82028	154	muon rate
+82028	155	muon rate
+82028	156	muon rate
+82028	157	muon rate
+82028	158	muon rate
+82028	159	muon rate
+82028	160	muon rate
+82028	161	muon rate
+82028	162	muon rate
+82028	163	muon rate
+82028	164	muon rate
+82028	165	muon rate
+82028	166	muon rate
+82028	167	muon rate
+82028	168	muon rate
+82028	169	muon rate
+82028	170	muon rate
+82028	171	muon rate
+82028	172	muon rate
+82028	173	muon rate
+82028	174	muon rate
+82028	175	muon rate
+82028	176	muon rate
+82028	177	muon rate
+82028	178	muon rate
+82028	179	muon rate
+82028	180	muon rate
+82028	181	muon rate
+82028	182	muon rate
+82028	183	muon rate
+82028	184	muon rate
+82028	185	muon rate
+82028	186	muon rate
+82028	187	muon rate
+82028	188	muon rate
+82028	189	muon rate
+82028	190	muon rate
+82028	191	muon rate
+82028	192	muon rate
+82028	193	muon rate
+82028	194	muon rate
+82028	195	muon rate
+82028	196	muon rate
+82028	197	muon rate
+82028	198	muon rate
+82028	199	muon rate
+82028	200	muon rate
+82028	201	muon rate
+82028	202	muon rate
+82028	203	muon rate
+82028	204	muon rate
+82028	205	muon rate
+82028	206	muon rate
+82028	207	muon rate
+82028	208	muon rate
+82028	209	muon rate
+82028	210	muon rate
+82028	211	muon rate
+82028	212	muon rate
+82028	213	muon rate
+82028	214	muon rate
+82028	215	muon rate
+82028	216	muon rate
+82028	217	muon rate
+82028	218	muon rate
+82028	219	muon rate
+82028	220	muon rate
+82028	221	muon rate
+82028	222	muon rate
+82028	223	muon rate
+82028	224	muon rate
+82028	225	muon rate
+82028	226	muon rate
+82028	227	muon rate
+82028	228	muon rate
+82028	229	muon rate
+82028	230	muon rate
+82028	231	muon rate
+82028	232	muon rate
+82028	233	muon rate
+82028	234	muon rate
+82028	235	muon rate
+82028	236	muon rate
+82028	237	muon rate
+82028	238	muon rate
+82028	239	muon rate
+82028	240	muon rate
+82028	241	muon rate
+82028	242	muon rate
+82028	243	muon rate
+82028	244	muon rate
+82028	245	muon rate
+82028	246	muon rate
+82028	247	muon rate
+82028	248	muon rate
+82028	249	muon rate
+82028	250	muon rate
+82028	251	muon rate
+82028	252	muon rate
+82028	253	muon rate
+82028	254	muon rate
+82028	255	muon rate
+82028	256	muon rate
+82028	257	muon rate
+82028	258	muon rate
+82028	259	muon rate
+82028	260	muon rate
+82028	261	muon rate
+82028	262	muon rate
+82028	263	muon rate
+82028	264	muon rate
+82028	265	muon rate
+82028	266	muon rate
+82028	267	muon rate
+82028	268	muon rate
+82028	269	muon rate
+82028	270	muon rate
+82028	271	muon rate
+82028	272	muon rate
+82028	273	muon rate
+82028	274	muon rate
+82028	275	muon rate
+82028	276	muon rate
+82028	277	muon rate
+82028	278	muon rate
+82028	279	muon rate
+82028	280	muon rate
+82028	281	muon rate
+82028	282	muon rate
+82028	283	muon rate
+82028	284	muon rate
+82028	285	muon rate
+82028	286	muon rate
+82028	287	muon rate
+82028	288	muon rate
+82028	289	muon rate
+82028	290	muon rate
+82028	291	muon rate
+82028	292	muon rate
+82028	293	muon rate
+82028	294	muon rate
+82028	295	muon rate
+82028	296	muon rate
+82028	297	muon rate
+82028	298	muon rate
+82028	299	muon rate
+82028	300	muon rate
+82028	301	muon rate
+82028	302	muon rate
+82028	303	muon rate
+82028	304	muon rate
+82028	305	muon rate
+82028	306	muon rate
+82028	307	muon rate
+82028	308	muon rate
+82028	309	muon rate
+82028	310	muon rate
+82028	311	muon rate
+82028	312	muon rate
+82028	313	muon rate
+82028	314	muon rate
+82028	315	muon rate
+82028	316	muon rate
+82028	317	muon rate
+82028	318	muon rate
+82028	319	muon rate
+82028	320	muon rate
+82028	321	muon rate
+82028	322	muon rate
+82028	323	muon rate
+82028	324	muon rate
+82028	325	muon rate
+82028	326	muon rate
+82028	327	muon rate
+82028	328	muon rate
+82028	329	muon rate
+82028	330	muon rate
+82028	331	muon rate
+82028	332	muon rate
+82028	333	muon rate
+82028	334	muon rate
+82028	335	muon rate
+82028	336	muon rate
+82028	337	muon rate
+82028	338	muon rate
+82028	339	muon rate
+82028	340	muon rate
+82028	341	muon rate
+82028	342	muon rate
+82028	343	muon rate
+82028	344	muon rate
+82028	345	muon rate
+82028	346	muon rate
+82028	347	muon rate
+82028	348	muon rate
+82028	349	muon rate
+82028	350	muon rate
+82028	351	muon rate
+82028	352	muon rate
+82028	353	muon rate
+82028	354	muon rate
+82028	355	muon rate
+82028	356	muon rate
+82028	357	muon rate
+82028	358	muon rate
+82028	359	muon rate
+82028	360	muon rate
+82028	361	muon rate
+82028	362	muon rate
+82028	363	muon rate
+82028	364	muon rate
+82028	365	muon rate
+82028	366	muon rate
+82028	367	muon rate
+82028	368	muon rate
+82028	369	muon rate
+82028	370	muon rate
+82028	371	muon rate
+82028	372	muon rate
+82028	373	muon rate
+82028	374	muon rate
+82028	375	muon rate
+82028	376	muon rate
+82028	377	muon rate
+82028	378	muon rate
+82028	379	muon rate
+82028	380	muon rate
+82028	381	muon rate
+82028	382	muon rate
+82028	383	muon rate
+82028	384	muon rate
+82028	385	muon rate
+82028	386	muon rate
+82028	387	muon rate
+82028	388	muon rate
+82028	389	muon rate
+82028	390	muon rate
+82028	391	muon rate
+82028	392	muon rate
+82028	393	muon rate
+82028	394	muon rate
+82028	395	muon rate
+82028	396	muon rate
+82028	397	muon rate
+82028	398	muon rate
+82028	399	muon rate
+82028	400	muon rate
+82028	401	muon rate
+82028	402	muon rate
+82028	403	muon rate
+82028	404	muon rate
+82028	405	muon rate
+82028	406	muon rate
+82028	407	muon rate
+82028	408	muon rate
+82028	409	muon rate
+82028	410	muon rate
+82028	411	muon rate
+82028	412	muon rate
+82028	413	muon rate
+82028	414	muon rate
+82028	415	muon rate
+82028	416	muon rate
+82028	417	muon rate
+82028	418	muon rate
+82028	419	muon rate
+82028	420	muon rate
+82028	421	muon rate
+82028	422	muon rate
+82028	423	muon rate
+82028	424	muon rate
+82028	425	muon rate
+82028	426	muon rate
+82028	427	muon rate
+82028	428	muon rate
+82028	429	muon rate
+82028	430	muon rate
+82028	431	muon rate
+82028	432	muon rate
+82028	433	muon rate
+82028	434	muon rate
+82028	435	muon rate
+82028	436	muon rate
+82028	437	muon rate
+82028	438	muon rate
+82028	439	muon rate
+82028	440	muon rate
+82028	441	muon rate
+82028	442	muon rate
+82028	443	muon rate
+82028	444	muon rate
+82028	445	muon rate
+82028	446	muon rate
+82028	447	muon rate
+82028	448	muon rate
+82028	449	muon rate
+82028	450	muon rate
+82028	451	muon rate
+82028	452	muon rate
+82028	453	muon rate
+82028	454	muon rate
+82028	455	muon rate
+82028	456	muon rate
+82028	457	muon rate
+82028	458	muon rate
+82028	459	muon rate
+82028	460	muon rate
+82028	461	muon rate
+82028	462	muon rate
+82028	463	muon rate
+82028	464	muon rate
+82028	465	muon rate
+82028	466	muon rate
+82028	467	muon rate
+82028	468	muon rate
+82028	469	muon rate
+82028	470	muon rate
+82028	471	muon rate
+82028	472	muon rate
+82028	473	muon rate
+82028	474	muon rate
+82028	475	muon rate
+82028	476	muon rate
+82028	477	muon rate
+82028	478	muon rate
+82028	479	muon rate
+82028	480	muon rate
+82028	481	muon rate
+82028	482	muon rate
+82028	483	muon rate
+82028	484	muon rate
+82028	485	muon rate
+82028	486	muon rate
+82028	487	muon rate
+82028	488	muon rate
+82028	489	muon rate
+82028	490	muon rate
+82028	491	muon rate
+82028	492	muon rate
+82028	493	muon rate
+82028	494	muon rate
+82028	495	muon rate
+82028	496	muon rate
+82028	497	muon rate
+82028	498	muon rate
+82028	499	muon rate
+82028	500	muon rate
+82028	501	muon rate
+82028	502	muon rate
+82028	503	muon rate
+82028	504	muon rate
+82028	505	muon rate
+82028	506	muon rate
+82028	507	muon rate
+82028	508	muon rate
+82028	509	muon rate
+82028	510	muon rate
+82028	511	muon rate
+82028	512	muon rate
+82028	513	muon rate
+82028	514	muon rate
+82028	515	muon rate
+82028	516	muon rate
+82028	517	muon rate
+82028	518	muon rate
+82028	519	muon rate
+82028	520	muon rate
+82028	521	muon rate
+82028	522	muon rate
+82028	523	muon rate
+82028	524	muon rate
+82028	525	muon rate
+82028	526	muon rate
+82028	527	muon rate
+82028	528	muon rate
+82028	529	muon rate
+82028	530	muon rate
+82028	531	muon rate
+82028	532	muon rate
+82028	533	muon rate
+82028	534	muon rate
+82028	535	muon rate
+82028	536	muon rate
+82028	537	muon rate
+82028	538	muon rate
+82028	539	muon rate
+82028	540	muon rate
+82028	541	muon rate
+82028	542	muon rate
+82028	543	muon rate
+82028	544	muon rate
+82028	545	muon rate
+82028	546	muon rate
+82028	547	muon rate
+82028	548	muon rate
+82028	549	muon rate
+82028	550	muon rate
+82028	551	muon rate
+82028	552	muon rate
+82028	553	muon rate
+82028	554	muon rate
+82028	555	muon rate
+82028	556	muon rate
+82028	557	muon rate
+82028	558	muon rate
+82028	559	muon rate
+82028	560	muon rate
+82028	561	muon rate
+82028	562	muon rate
+82028	563	muon rate
+82028	564	muon rate
+82028	565	muon rate
+82028	566	muon rate
+82028	567	muon rate
+82028	568	muon rate
+82028	569	muon rate
+82028	570	muon rate
+82028	571	muon rate
+82028	572	muon rate
+82028	573	muon rate
+82028	574	muon rate
+82028	575	muon rate
+82028	576	muon rate
+82028	577	muon rate
+82028	578	muon rate
+82028	579	muon rate
+82028	580	muon rate
+82028	581	muon rate
+82028	582	muon rate
+82028	583	muon rate
+82028	584	muon rate
+82028	585	muon rate
+82028	586	muon rate
+82028	587	muon rate
+82028	588	muon rate
+82028	589	muon rate
+82028	590	muon rate
+82028	591	muon rate
+82028	592	muon rate
+82028	593	muon rate
+82028	594	muon rate
+82028	595	muon rate
+82028	596	muon rate
+82028	597	muon rate
+82028	598	muon rate
+82028	599	muon rate
+82028	600	muon rate
+82028	601	muon rate
+82028	602	muon rate
+82028	603	muon rate
+82028	604	muon rate
+82028	605	muon rate
+82028	606	muon rate
+82028	607	muon rate
+82028	608	muon rate
+82028	609	muon rate
+82028	610	muon rate
+82028	611	muon rate
+82028	612	muon rate
+82028	613	muon rate
+82028	614	muon rate
+82028	615	muon rate
+82028	616	muon rate
+82028	617	muon rate
+82028	618	muon rate
+82028	619	muon rate
+82050	675	muon rate
+82059	1	muon rate
+82097	1169	muon rate
+82175	197	muon rate
+82213	538	muon rate
+82216	220	muon rate
+82258	577	muon rate
+82335	1129	muon rate
+82349	1139	muon rate
+82384	921	muon rate
+82386	30	muon rate
+82386	1159	muon rate
+82437	170	muon rate
+82479	1188	muon rate
+82536	714	muon rate
+82536	1177	muon rate
+82541	781	muon rate
+82541	1134	muon rate
+82545	1131	muon rate
+82574	951	muon rate
+82589	928	muon rate
+82589	1125	muon rate
+82594	824	muon rate
+80947	501	OD bad channel issue
+80947	502	OD bad channel issue
+80947	503	OD bad channel issue
+80947	504	OD bad channel issue
+80947	505	OD bad channel issue
+80947	506	OD bad channel issue
+80947	507	OD bad channel issue
+80947	508	OD bad channel issue
+80947	509	OD bad channel issue
+80947	510	OD bad channel issue
+80947	511	OD bad channel issue
+80947	512	OD bad channel issue
+80947	513	OD bad channel issue
+80947	514	OD bad channel issue
+80947	515	OD bad channel issue
+80947	516	OD bad channel issue
+80947	517	OD bad channel issue
+80947	518	OD bad channel issue
+80947	519	OD bad channel issue
+82131	913	ID bad channel issue
+82131	914	ID bad channel issue
+82131	915	ID bad channel issue
+82131	916	ID bad channel issue
+82131	917	ID bad channel issue
+82131	918	ID bad channel issue
+82131	919	ID bad channel issue
+82131	920	ID bad channel issue
+82131	921	ID bad channel issue
+82131	922	ID bad channel issue
+82387	683	OD bad channel issue
+82387	684	OD bad channel issue
+82387	685	OD bad channel issue
+82387	686	OD bad channel issue
+82387	687	OD bad channel issue
+82387	688	OD bad channel issue
+82387	689	OD bad channel issue
+82387	690	OD bad channel issue
+82387	691	OD bad channel issue
+82387	692	OD bad channel issue
+82387	693	OD bad channel issue
+82387	694	OD bad channel issue
+82387	695	OD bad channel issue
+82387	696	OD bad channel issue
+82387	697	OD bad channel issue
+82387	698	OD bad channel issue
+82387	699	OD bad channel issue
+82387	700	OD bad channel issue
+82387	701	OD bad channel issue
+82387	702	OD bad channel issue
+82387	703	OD bad channel issue
+82387	704	OD bad channel issue
+82387	705	OD bad channel issue
+82387	706	OD bad channel issue
+82387	707	OD bad channel issue
+82387	708	OD bad channel issue
+82387	709	OD bad channel issue
+82387	710	OD bad channel issue
+82387	711	OD bad channel issue
+82387	712	OD bad channel issue
+82387	713	OD bad channel issue
+82387	714	OD bad channel issue
+82387	715	OD bad channel issue
+82387	716	OD bad channel issue
+82387	717	OD bad channel issue
+82387	718	OD bad channel issue
+82387	719	OD bad channel issue
+82387	720	OD bad channel issue
+82387	721	OD bad channel issue
+82387	722	OD bad channel issue
+82387	723	OD bad channel issue
+82387	724	OD bad channel issue
+82387	725	OD bad channel issue
+82387	726	OD bad channel issue
+82387	727	OD bad channel issue
+82387	728	OD bad channel issue
+82387	729	OD bad channel issue
+82387	730	OD bad channel issue
+82387	731	OD bad channel issue
+82387	732	OD bad channel issue
+82387	733	OD bad channel issue
+82387	734	OD bad channel issue
+82387	735	OD bad channel issue
+82387	736	OD bad channel issue
+82387	737	OD bad channel issue
+82387	738	OD bad channel issue
+82387	739	OD bad channel issue
+82387	740	OD bad channel issue
+82387	741	OD bad channel issue
+82387	742	OD bad channel issue
+82387	743	OD bad channel issue
+82387	744	OD bad channel issue
+82387	745	OD bad channel issue
+82387	746	OD bad channel issue
+82387	747	OD bad channel issue
+82387	748	OD bad channel issue
+82387	749	OD bad channel issue
+82387	750	OD bad channel issue
+82387	751	OD bad channel issue
+82387	752	OD bad channel issue
+82387	753	OD bad channel issue
+82387	754	OD bad channel issue
+82387	755	OD bad channel issue
+82387	756	OD bad channel issue
+82387	757	OD bad channel issue
+82387	758	OD bad channel issue
+82387	759	OD bad channel issue
+82387	760	OD bad channel issue
+82387	761	OD bad channel issue
+82387	762	OD bad channel issue
+82387	763	OD bad channel issue
+82387	764	OD bad channel issue
+82387	765	OD bad channel issue
+82387	766	OD bad channel issue
+82387	767	OD bad channel issue
+82387	768	OD bad channel issue
+82387	769	OD bad channel issue
+82387	770	OD bad channel issue
+82387	771	OD bad channel issue
+82387	772	OD bad channel issue
+82387	773	OD bad channel issue
+82387	774	OD bad channel issue
+82387	775	OD bad channel issue
+82387	776	OD bad channel issue
+82387	777	OD bad channel issue
+82387	778	OD bad channel issue
+82387	779	OD bad channel issue
+82387	780	OD bad channel issue
+82387	781	OD bad channel issue
+82387	782	OD bad channel issue
+82387	783	OD bad channel issue
+82387	784	OD bad channel issue
+82387	785	OD bad channel issue
+82387	786	OD bad channel issue
+82387	787	OD bad channel issue
+82387	788	OD bad channel issue
+82387	789	OD bad channel issue
+82387	790	OD bad channel issue
+82387	791	OD bad channel issue
+82387	792	OD bad channel issue
+82387	793	OD bad channel issue
+82387	794	OD bad channel issue
+82387	795	OD bad channel issue
+82387	796	OD bad channel issue
+82387	797	OD bad channel issue
+82387	798	OD bad channel issue
+82387	799	OD bad channel issue
+82387	800	OD bad channel issue
+82387	801	OD bad channel issue
+82387	802	OD bad channel issue
+82387	803	OD bad channel issue
+82387	804	OD bad channel issue
+82387	805	OD bad channel issue
+82387	806	OD bad channel issue
+82387	807	OD bad channel issue
+82387	808	OD bad channel issue
+82387	809	OD bad channel issue
+82387	810	OD bad channel issue
+82387	811	OD bad channel issue
+82387	812	OD bad channel issue
+82387	813	OD bad channel issue
+82387	814	OD bad channel issue
+82387	815	OD bad channel issue
+82387	816	OD bad channel issue
+82387	817	OD bad channel issue
+82387	818	OD bad channel issue
+82387	819	OD bad channel issue
+82387	820	OD bad channel issue
+82387	821	OD bad channel issue
+82387	822	OD bad channel issue
+82387	823	OD bad channel issue
+82387	824	OD bad channel issue
+82387	825	OD bad channel issue
+82387	826	OD bad channel issue
+82387	827	OD bad channel issue
+82387	828	OD bad channel issue
+82387	829	OD bad channel issue
+82387	830	OD bad channel issue
+82387	831	OD bad channel issue
+82387	832	OD bad channel issue
+82387	833	OD bad channel issue
+82387	834	OD bad channel issue
+82387	835	OD bad channel issue
+82387	836	OD bad channel issue
+82387	837	OD bad channel issue
+82387	838	OD bad channel issue
+82387	839	OD bad channel issue
+82387	840	OD bad channel issue
+82387	841	OD bad channel issue
+82387	842	OD bad channel issue
+82387	843	OD bad channel issue
+82387	844	OD bad channel issue
+82387	845	OD bad channel issue
+82387	846	OD bad channel issue
+82387	847	OD bad channel issue
+82387	848	OD bad channel issue
+82387	849	OD bad channel issue
+82387	850	OD bad channel issue
+82387	851	OD bad channel issue
+82387	852	OD bad channel issue
+82387	853	OD bad channel issue
+82387	854	OD bad channel issue
+82387	855	OD bad channel issue
+82387	856	OD bad channel issue
+82387	857	OD bad channel issue
+82387	858	OD bad channel issue
+82387	859	OD bad channel issue
+82387	860	OD bad channel issue
+82387	861	OD bad channel issue
+82387	862	OD bad channel issue
+82387	863	OD bad channel issue
+82387	864	OD bad channel issue
+82387	865	OD bad channel issue
+82387	866	OD bad channel issue
+82387	867	OD bad channel issue
+82387	868	OD bad channel issue
+82387	869	OD bad channel issue
+82387	870	OD bad channel issue
+82387	871	OD bad channel issue
+82387	872	OD bad channel issue
+82387	873	OD bad channel issue
+82387	874	OD bad channel issue
+82387	875	OD bad channel issue
+82387	876	OD bad channel issue
+82387	877	OD bad channel issue
+82387	878	OD bad channel issue
+82387	879	OD bad channel issue
+82387	880	OD bad channel issue
+82387	881	OD bad channel issue
+82387	882	OD bad channel issue
+82387	883	OD bad channel issue
+82387	884	OD bad channel issue
+82387	885	OD bad channel issue
+82387	886	OD bad channel issue
+82387	887	OD bad channel issue
+82387	888	OD bad channel issue
+82387	889	OD bad channel issue
+82387	890	OD bad channel issue
+82387	891	OD bad channel issue
+82387	892	OD bad channel issue
+82387	893	OD bad channel issue
+82387	894	OD bad channel issue
+82387	895	OD bad channel issue
+82387	896	OD bad channel issue
+82387	897	OD bad channel issue
+82387	898	OD bad channel issue
+82387	899	OD bad channel issue
+82387	900	OD bad channel issue
+82387	901	OD bad channel issue
+82387	902	OD bad channel issue
+82387	903	OD bad channel issue
+82387	904	OD bad channel issue
+82387	905	OD bad channel issue
+82387	906	OD bad channel issue
+82387	907	OD bad channel issue
+82387	908	OD bad channel issue
+82387	909	OD bad channel issue
+82387	910	OD bad channel issue
+82387	911	OD bad channel issue
+82387	912	OD bad channel issue
+82387	913	OD bad channel issue
+82387	914	OD bad channel issue
+82387	915	OD bad channel issue
+82387	916	OD bad channel issue
+82387	917	OD bad channel issue
+82387	918	OD bad channel issue
+82387	919	OD bad channel issue
+82387	920	OD bad channel issue
+82387	921	OD bad channel issue
+82387	922	OD bad channel issue
+82387	923	OD bad channel issue
+82387	924	OD bad channel issue
+82387	925	OD bad channel issue
+82387	926	OD bad channel issue
+82387	927	OD bad channel issue
+82387	928	OD bad channel issue
+82387	929	OD bad channel issue
+82387	930	OD bad channel issue
+82387	931	OD bad channel issue
+82387	932	OD bad channel issue
+82387	933	OD bad channel issue
+82387	934	OD bad channel issue
+82387	935	OD bad channel issue
+82387	936	OD bad channel issue
+82387	937	OD bad channel issue
+82387	938	OD bad channel issue
+82387	939	OD bad channel issue
+82387	940	OD bad channel issue
+82387	941	OD bad channel issue
+82387	942	OD bad channel issue
+82387	943	OD bad channel issue
+82387	944	OD bad channel issue
+82387	945	OD bad channel issue
+82387	946	OD bad channel issue
+82387	947	OD bad channel issue
+82387	948	OD bad channel issue
+82387	949	OD bad channel issue
+82387	950	OD bad channel issue
+82387	951	OD bad channel issue
+82387	952	OD bad channel issue
+82387	953	OD bad channel issue
+82387	954	OD bad channel issue
+82387	955	OD bad channel issue
+82387	956	OD bad channel issue
+82387	957	OD bad channel issue
+82387	958	OD bad channel issue
+82387	959	OD bad channel issue
+82387	960	OD bad channel issue
+82387	961	OD bad channel issue
+82387	962	OD bad channel issue
+82387	963	OD bad channel issue
+82387	964	OD bad channel issue
+82387	965	OD bad channel issue
+82387	966	OD bad channel issue
+82387	967	OD bad channel issue
+82387	968	OD bad channel issue
+82387	969	OD bad channel issue
+82387	970	OD bad channel issue
+82387	971	OD bad channel issue
+82387	972	OD bad channel issue
+82387	973	OD bad channel issue
+82387	974	OD bad channel issue
+82387	975	OD bad channel issue
+82387	976	OD bad channel issue
+82387	977	OD bad channel issue
+82387	978	OD bad channel issue
+82387	979	OD bad channel issue
+82387	980	OD bad channel issue
+82387	981	OD bad channel issue
+82387	982	OD bad channel issue
+82387	983	OD bad channel issue
+82387	984	OD bad channel issue
+82387	985	OD bad channel issue
+82387	986	OD bad channel issue
+82387	987	OD bad channel issue
+82387	988	OD bad channel issue
+82387	989	OD bad channel issue
+82387	990	OD bad channel issue
+82387	991	OD bad channel issue
+82387	992	OD bad channel issue
+82387	993	OD bad channel issue
+82387	994	OD bad channel issue
+82387	995	OD bad channel issue
+82387	996	OD bad channel issue
+82387	997	OD bad channel issue
+82387	998	OD bad channel issue
+82387	999	OD bad channel issue
+82387	1000	OD bad channel issue
+82387	1001	OD bad channel issue
+82551	1	OD bad channel issue
+82551	2	OD bad channel issue
+82551	3	OD bad channel issue
+82551	4	OD bad channel issue
+82633	93	DAQ error
+82633	94	DAQ error
+82633	95	DAQ error
+82633	96	DAQ error
+82633	97	DAQ error
+82639	278	this sub run is missing
+82748	76	strange behavior and missing
+82748	165	strange behavior and missing
+82748	166	strange behavior and missing
+82748	167	strange behavior and missing
+82748	168	strange behavior and missing
+82748	169	strange behavior and missing
+82752	0	short run
+82761	0	short run
+82762	0	short run
+82764	0	short run
+82767	0	short run
+82768	0	short run
+82774	0	cluster was found
+82775	0	NQISK after tdiff has trouble
+82796	524	missing sub run
+82804	598	DAQ error
+82804	599	DAQ error
+82804	600	DAQ error
+82804	601	DAQ error
+82804	602	DAQ error
+82809	875	DAQ error
+82809	876	DAQ error
+82809	877	DAQ error
+82809	878	DAQ error
+82809	879	DAQ error
+82818	0	cluster was found
+82819	0	short run
+82820	0	short run
+82824	0	short run
+82825	0	short run
+82826	0	short run
+82827	0	short run
+82888	140	ID HV trouble
+82888	141	ID HV trouble
+82888	142	ID HV trouble
+82888	143	ID HV trouble
+82888	144	ID HV trouble
+82888	145	ID HV trouble
+82888	146	ID HV trouble
+82888	147	ID HV trouble
+82888	148	ID HV trouble
+82888	149	ID HV trouble
+82888	150	ID HV trouble
+82888	151	ID HV trouble
+82888	152	ID HV trouble
+82888	153	ID HV trouble
+82888	154	ID HV trouble
+82888	155	ID HV trouble
+82888	156	ID HV trouble
+82888	157	ID HV trouble
+82888	158	ID HV trouble
+82888	159	ID HV trouble
+82888	160	ID HV trouble
+82888	161	ID HV trouble
+82888	162	ID HV trouble
+82888	163	ID HV trouble
+82888	164	ID HV trouble
+82888	165	ID HV trouble
+82888	166	ID HV trouble
+82888	167	ID HV trouble
+82888	168	ID HV trouble
+82888	169	ID HV trouble
+82888	170	ID HV trouble
+82888	171	ID HV trouble
+82888	172	ID HV trouble
+82888	173	ID HV trouble
+82888	174	ID HV trouble
+82888	175	ID HV trouble
+82888	176	ID HV trouble
+82888	177	ID HV trouble
+82888	178	ID HV trouble
+82888	179	ID HV trouble
+82888	180	ID HV trouble
+82888	181	ID HV trouble
+82888	182	ID HV trouble
+82888	183	ID HV trouble
+82888	184	ID HV trouble
+82888	185	ID HV trouble
+82888	186	ID HV trouble
+82888	187	ID HV trouble
+82888	188	ID HV trouble
+82888	189	ID HV trouble
+82888	190	ID HV trouble
+82888	191	ID HV trouble
+82888	192	ID HV trouble
+82888	193	ID HV trouble
+82888	194	ID HV trouble
+82888	195	ID HV trouble
+82888	196	ID HV trouble
+82888	197	ID HV trouble
+82888	198	ID HV trouble
+82888	199	ID HV trouble
+82888	200	ID HV trouble
+82888	201	ID HV trouble
+82888	202	ID HV trouble
+82888	203	ID HV trouble
+82888	204	ID HV trouble
+82888	205	ID HV trouble
+82888	206	ID HV trouble
+82888	207	ID HV trouble
+82888	208	ID HV trouble
+82888	209	ID HV trouble
+82888	210	ID HV trouble
+82888	211	ID HV trouble
+82888	212	ID HV trouble
+82888	213	ID HV trouble
+82888	214	ID HV trouble
+82888	215	ID HV trouble
+82888	216	ID HV trouble
+82888	217	ID HV trouble
+82888	218	ID HV trouble
+82888	219	ID HV trouble
+82888	220	ID HV trouble
+82888	221	ID HV trouble
+82888	222	ID HV trouble
+82888	223	ID HV trouble
+82888	224	ID HV trouble
+82888	225	ID HV trouble
+82888	226	ID HV trouble
+82888	227	ID HV trouble
+82888	228	ID HV trouble
+82888	229	ID HV trouble
+82888	230	ID HV trouble
+82888	231	ID HV trouble
+82888	232	ID HV trouble
+82888	233	ID HV trouble
+82888	234	ID HV trouble
+82888	235	ID HV trouble
+82888	236	ID HV trouble
+82888	237	ID HV trouble
+82888	238	ID HV trouble
+82888	239	ID HV trouble
+82888	240	ID HV trouble
+82888	241	ID HV trouble
+82888	242	ID HV trouble
+82888	243	ID HV trouble
+82890	457	DAQ error
+82890	458	DAQ error
+82890	459	DAQ error
+82890	460	DAQ error
+82890	461	DAQ error
+82893	0	short run
+82914	0	large flasher event rate. Cluster was found
+82915	0	large flasher event rate.
+85001	0	Flusher PMT
+85005	0	Flusher PMT
+85007	0	OD PMT trouble
+82854	652	missing sub run
+82870	175	missing sub run
+82639   278     muon rate
+82639   1112    muon rate
+82748   76      muon rate
+82748   492     muon rate
+82748   1126    muon rate
+82796   524     muon rate
+82796   1107    muon rate
+82820   1       muon rate
+82854   652     muon rate
+82854   856     muon rate
+82870   175     muon rate
+82768   1       OD bad channel issue
+82768   2       OD bad channel issue
+82768   3       OD bad channel issue
+82768   4       OD bad channel issue
+82768   5       OD bad channel issue
+82768   6       OD bad channel issue
+82768   7       OD bad channel issue
+82768   8       OD bad channel issue
+82768   9       OD bad channel issue
+82768   10      OD bad channel issue
+82768   11      OD bad channel issue
+82768   12      OD bad channel issue
+82768   13      OD bad channel issue
+82768   14      OD bad channel issue
+82768   15      OD bad channel issue

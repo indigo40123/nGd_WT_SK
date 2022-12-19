@@ -1,0 +1,170 @@
+Output file: output/wt_090593.root input file:/disk03/lowe10/sk7/sle/lomugd.090593.root
+ Id of this manager : 10
+InitReadRoot: total = 19680
+RUNINFO found in the rare list
+SK geometry setting: 6
+***** Dummy rgetvalue was called. (Remote File Access is not supported) *****
+==========WT:========== 0 0 0
+0/19680
+Sec_Event 175764 N50: 25
+T: 0.40628 Q: -0.0110296
+T: 0.315168 Q: -0.0100953
+T: 0.22823 Q: -0.00986393
+T: 0.148108 Q: -0.0146917
+T: 0.0772351 Q: -0.0111265
+T: 0.017766 Q: -0.0113699
+T: -0.0284927 Q: -0.0127554
+T: -0.0601356 Q: -0.0208638
+T: -0.076201 Q: -0.00905822
+T: -0.076201 Q: -0.0122048
+T: -0.0601356 Q: -0.0133889
+T: -0.0284927 Q: inf
+T: 0.017766 Q: inf
+T: 0.0772351 Q: inf
+T: 0.148108 Q: -0.00959428
+T: 0.22823 Q: -0.0143364
+T: 0.315168 Q: inf
+T: 0.40628 Q: -0.0148326
+T: 0.498798 Q: -0.0136776
+T: 0.58991 Q: -0.00864376
+T: 0.676848 Q: inf
+T: 0.75697 Q: -0.00341928
+T: 0.827843 Q: -0.0027747
+T: 0.887312 Q: inf
+T: 0.93357 Q: -0.00239024
+T: 0.965213 Q: -0.00162888
+T: 0.981279 Q: -0.00265229
+T: 0.981279 Q: -0.00188772
+T: 0.965213 Q: -0.00217022
+T: 0.93357 Q: -0.00200813
+T: 0.887312 Q: -0.00539386
+T: 0.827843 Q: inf
+T: 0.75697 Q: -0.00389653
+T: 0.676848 Q: -0.00554952
+T: 0.58991 Q: inf
+T: 0.498798 Q: -0.0123669
+Sec_Event 449417 N50: 38
+T: -0.63621 Q: -0.0220737
+T: -0.703555 Q: -0.0240867
+T: -0.767815 Q: inf
+T: -0.827038 Q: inf
+T: -0.879423 Q: -0.0216948
+T: -0.92338 Q: -0.0154226
+T: -0.957572 Q: -0.0150752
+T: -0.980961 Q: -0.0126719
+T: -0.992835 Q: inf
+T: -0.992835 Q: inf
+T: -0.980961 Q: -0.014135
+T: -0.957572 Q: inf
+T: -0.92338 Q: inf
+T: -0.879423 Q: -0.0169022
+T: -0.827038 Q: inf
+T: -0.767815 Q: -0.0232591
+T: -0.703555 Q: inf
+T: -0.63621 Q: -0.0305477
+T: -0.567826 Q: inf
+T: -0.50048 Q: inf
+T: -0.43622 Q: inf
+T: -0.376998 Q: -0.0224907
+T: -0.324612 Q: -0.028332
+T: -0.280656 Q: -0.0215949
+T: -0.246463 Q: -0.0218293
+T: -0.223075 Q: -0.0227127
+T: -0.2112 Q: -0.0284898
+T: -0.2112 Q: -0.0157472
+T: -0.223075 Q: -0.0168183
+T: -0.246463 Q: -0.017559
+T: -0.280656 Q: -0.0162065
+T: -0.324612 Q: inf
+T: -0.376998 Q: -0.0200841
+T: -0.43622 Q: -0.0174139
+T: -0.50048 Q: -0.0187299
+T: -0.567826 Q: inf
+Sec_Event 536113 N50: 44
+T: -0.583551 Q: -0.0283804
+T: -0.661839 Q: inf
+T: -0.73654 Q: -0.0278893
+T: -0.805385 Q: -0.0293117
+T: -0.866283 Q: inf
+T: -0.917381 Q: inf
+T: -0.957129 Q: inf
+T: -0.984318 Q: inf
+T: -0.998122 Q: -0.0116427
+T: -0.998122 Q: inf
+T: -0.984318 Q: inf
+T: -0.957129 Q: inf
+T: -0.917381 Q: inf
+T: -0.866283 Q: inf
+T: -0.805385 Q: inf
+T: -0.73654 Q: -0.0333201
+T: -0.661839 Q: inf
+T: -0.583551 Q: inf
+T: -0.504055 Q: inf
+T: -0.425767 Q: -0.0198542
+T: -0.351066 Q: inf
+T: -0.282221 Q: -0.0198895
+T: -0.221324 Q: inf
+T: -0.170225 Q: inf
+T: -0.130477 Q: inf
+T: -0.103288 Q: inf
+T: -0.0894838 Q: -0.0122795
+T: -0.0894838 Q: -0.0173971
+T: -0.103288 Q: -0.0214924
+T: -0.130477 Q: inf
+T: -0.170225 Q: inf
+T: -0.221324 Q: inf
+T: -0.282221 Q: inf
+T: -0.351066 Q: -0.0202992
+T: -0.425767 Q: inf
+T: -0.504055 Q: -0.0219233
+
+gestpm: TOTAL NUMBER PMT: WALL; TOP; BOTTOM; ALL  7650  1748  1748 11146
+ *****************************
+ * This is for SK-VI map      *
+ *****************************
+ findconsts: connection table file: /home/licheng/local/skofl/const//connection.super.dat
+gexyz: PMT # FOR EACH SECTION       1  7650  7651  9398  9399 11146
+gexyz: maxpm,nlwal     11146      7650
+ findconsts: connection table1 file: /home/licheng/local/skofl/const//connection.super.dat
+ findconsts: connection table2 file: /home/licheng/local/skofl/const//connection.super.sk-5.dat
+ findfile: checking /home/licheng/local/skofl/const//misch3.dat
+ findfile: found /home/licheng/local/skofl/const//misch3.dat
+ findconsts: mis channel file: /home/licheng/local/skofl/const//misch3.dat
+ findfile: checking /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findfile: found /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findconsts: pmt file: /home/licheng/local/skofl/const//skpmt_sk5.dat
+gestpma: TOTAL NUMBER anti PMT: WALL; TOP; BOTTOM; ALL  1275   302   308  1885
+gexyza: anti PMT # FOR EACH SECTION       1  1275  1276  1577  1578  1885
+ maxpma,nlwala      1885      1275
+ skbadch: log_level =            0
+ findconsts: badch.090593 file: /home/licheng/local/skofl/const//badch/badch.090593
+ findconsts: bad channel file: /home/licheng/local/skofl/const//badch.dat
+ findconsts: badch.090593 file: /home/licheng/local/skofl/const//badch/badch.090593
+ skdark: log_level =            0
+ findconsts: darkr.090593.root file: /home/licheng/local/skofl/const//darkr/darkr.090593.root
+ findconsts: badsub SK-I 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk.r1742-3051.r3208-3608
+ nbad 1 =         1851
+ findconsts: badsub SK-I 2 file: /home/licheng/local/skofl/const//lowe/badsub.sk.realtim
+ nbad 2 =        17511
+ findconsts: badsub SK-I 3 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual.1260day
+ nbad 3 =        21939
+ findconsts: badsub SK-I 4 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle.1260day
+ nbad 4 =        28004
+ findconsts: badsub SK-I 5 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual
+ nbad 5 =        28105
+ findconsts: badsub SK-I 6 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle
+ nbad 6 =        28105
+ findconsts: badsub SK-II 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk2.manual
+ nbad_sk2 SK-II 1 =        27759
+ findconsts: badsub SK-III 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk3.manual
+ nbad_sk3 SK-III 1 =         4149
+ findconsts: badsub SK-IV file: /home/licheng/local/skofl/const//lowe/badsub.sk4.manual
+ nbad_sk4 SK-IV =        66921
+ read local badsub.sk5.manual.local
+ nbad_sk5 SK-V =         2595
+ read local badsub.sk6.manual.local
+ nbad_sk6 SK-VI (Gd) =         7717
+ findconsts: skcoverage_barrel file: /home/licheng/local/skofl/const//lowe/skcov_b_p3.dat
+ findconsts: nearest neighbor file: /home/licheng/local/skofl/const//neighb.dat
+ neighbsk: reading neighbor file /home/licheng/local/skofl/const//neighb.dat
+ findconsts: skcoverage_sk4_final file: /home/licheng/local/skofl/const//lowe/skcov_c_p3.dat

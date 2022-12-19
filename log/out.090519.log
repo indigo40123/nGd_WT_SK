@@ -1,0 +1,244 @@
+Output file: output/wt_090519.root input file:/disk03/lowe10/sk7/sle/lomugd.090519.root
+ Id of this manager : 10
+InitReadRoot: total = 20724
+RUNINFO found in the rare list
+SK geometry setting: 6
+***** Dummy rgetvalue was called. (Remote File Access is not supported) *****
+==========WT:========== 0 0 12344.1
+0/20724
+Sec_Event 169920 N50: 36
+Sec_Event 246538 N50: 34
+T: -0.00329451 Q: -0.00716694
+T: -0.117846 Q: -0.0101313
+T: -0.22715 Q: -0.0138398
+T: -0.327885 Q: -0.0119091
+T: -0.416991 Q: inf
+T: -0.491759 Q: -0.0209273
+T: -0.549918 Q: -0.0277369
+T: -0.589702 Q: inf
+T: -0.6099 Q: inf
+T: -0.6099 Q: -0.0467212
+T: -0.589702 Q: -0.0560545
+T: -0.549918 Q: -0.0676069
+T: -0.491759 Q: inf
+T: -0.416991 Q: inf
+T: -0.327885 Q: inf
+T: -0.22715 Q: -0.0469222
+T: -0.117846 Q: -0.0437211
+T: -0.00329451 Q: -0.0592935
+T: 0.113024 Q: -0.0503535
+T: 0.227576 Q: -0.0510835
+T: 0.33688 Q: inf
+T: 0.437615 Q: inf
+T: 0.52672 Q: -0.0427101
+T: 0.601489 Q: inf
+T: 0.659648 Q: inf
+T: 0.699432 Q: inf
+T: 0.71963 Q: -0.0233642
+T: 0.71963 Q: -0.0272852
+T: 0.699432 Q: -0.0215759
+T: 0.659648 Q: -0.0186686
+T: 0.601489 Q: inf
+T: 0.52672 Q: -0.0126793
+T: 0.437615 Q: -0.0144351
+T: 0.33688 Q: -0.00957423
+T: 0.227576 Q: inf
+T: 0.113024 Q: -0.00708249
+Sec_Event 255393 N50: 27
+T: -0.650146 Q: -0.00127868
+T: -0.714002 Q: -0.000946659
+T: -0.774934 Q: inf
+T: -0.831088 Q: inf
+T: -0.88076 Q: -0.00101725
+T: -0.92244 Q: -0.000674091
+T: -0.954861 Q: inf
+T: -0.977038 Q: inf
+T: -0.988297 Q: inf
+T: -0.988297 Q: -0.000519385
+T: -0.977038 Q: -0.000608887
+T: -0.954861 Q: -0.000599832
+T: -0.88076 Q: -0.0013371
+T: -0.831088 Q: inf
+T: -0.774934 Q: -0.000550616
+T: -0.714002 Q: -0.00190038
+T: -0.650146 Q: -0.00219161
+T: -0.585304 Q: -0.00230078
+T: -0.521447 Q: -0.00375619
+T: -0.460516 Q: inf
+T: -0.404361 Q: -0.0110928
+T: -0.35469 Q: inf
+T: -0.31301 Q: inf
+T: -0.280589 Q: -0.0285541
+T: -0.258412 Q: -0.0277063
+T: -0.247152 Q: -0.0341477
+T: -0.247152 Q: -0.0281284
+T: -0.258412 Q: -0.0220898
+T: -0.280589 Q: -0.0205747
+T: -0.31301 Q: -0.0186249
+T: -0.35469 Q: inf
+T: -0.404361 Q: -0.0154657
+T: -0.460516 Q: -0.00441349
+T: -0.521447 Q: -0.00350293
+T: -0.585304 Q: -0.00260075
+Sec_Event 337393 N50: 46
+T: 0.425963 Q: -0.0174566
+T: 0.337123 Q: -0.0223203
+T: 0.252353 Q: -0.0215012
+T: 0.174228 Q: inf
+T: 0.105123 Q: inf
+T: 0.0471368 Q: inf
+T: 0.00203164 Q: inf
+T: -0.0288221 Q: -0.0363562
+T: -0.044487 Q: inf
+T: -0.044487 Q: inf
+T: -0.0288221 Q: -0.0351827
+T: 0.00203164 Q: inf
+T: 0.0471368 Q: -0.0345172
+T: 0.105123 Q: inf
+T: 0.174228 Q: -0.0318742
+T: 0.252353 Q: -0.0413624
+T: 0.337123 Q: inf
+T: 0.425963 Q: -0.0267473
+T: 0.516173 Q: -0.0236431
+T: 0.605013 Q: inf
+T: 0.689783 Q: -0.0155088
+T: 0.767908 Q: inf
+T: 0.837013 Q: -0.0101446
+T: 0.894999 Q: inf
+T: 0.940104 Q: inf
+T: 0.970958 Q: -0.00770618
+T: 0.986623 Q: -0.00392759
+T: 0.986623 Q: inf
+T: 0.970958 Q: inf
+T: 0.940104 Q: -0.00459868
+T: 0.894999 Q: -0.00628272
+T: 0.837013 Q: -0.00692744
+T: 0.767908 Q: -0.0119023
+T: 0.689783 Q: -0.0170345
+T: 0.605013 Q: -0.019438
+T: 0.516173 Q: -0.0183253
+Sec_Event 548648 N50: 30
+T: -0.423308 Q: inf
+T: -0.522669 Q: -0.00135972
+T: -0.617478 Q: -0.001493
+T: -0.704855 Q: -0.00136967
+T: -0.782144 Q: -0.00232275
+T: -0.846997 Q: inf
+T: -0.897444 Q: -0.00742926
+T: -0.931951 Q: -0.0241434
+T: -0.949471 Q: -0.0333744
+T: -0.949471 Q: -0.0290101
+T: -0.931951 Q: inf
+T: -0.897444 Q: -0.034159
+T: -0.846997 Q: -0.0345463
+T: -0.782144 Q: -0.0400578
+T: -0.704855 Q: -0.0505651
+T: -0.617478 Q: -0.0588192
+T: -0.522669 Q: inf
+T: -0.423308 Q: -0.0395387
+T: -0.322414 Q: -0.0337357
+T: -0.223054 Q: -0.0280826
+T: -0.128245 Q: inf
+T: -0.0408681 Q: -0.0243352
+T: 0.036421 Q: -0.0227399
+T: 0.101274 Q: inf
+T: 0.151721 Q: -0.0111007
+T: 0.186229 Q: -0.0145206
+T: 0.203749 Q: inf
+T: 0.203749 Q: -0.00687582
+T: 0.186229 Q: -0.00233858
+T: 0.151721 Q: inf
+T: 0.101274 Q: -0.00228128
+T: 0.036421 Q: inf
+T: -0.0408681 Q: inf
+T: -0.128245 Q: inf
+T: -0.223054 Q: -0.000469406
+T: -0.322414 Q: -0.000854731
+Sec_Event 679368 N50: 44
+T: -0.658346 Q: inf
+T: -0.719994 Q: inf
+T: -0.778818 Q: inf
+T: -0.83303 Q: -0.00583844
+T: -0.880984 Q: inf
+T: -0.921221 Q: inf
+T: -0.952521 Q: inf
+T: -0.973931 Q: -0.00357964
+T: -0.984801 Q: -0.00291765
+T: -0.984801 Q: -0.0038556
+T: -0.973931 Q: inf
+T: -0.952521 Q: -0.00342461
+T: -0.921221 Q: -0.00574986
+T: -0.880984 Q: inf
+T: -0.83303 Q: -0.0054913
+T: -0.778818 Q: inf
+T: -0.719994 Q: -0.00669305
+T: -0.658346 Q: -0.00622959
+T: -0.595747 Q: inf
+T: -0.5341 Q: -0.0125906
+T: -0.475276 Q: -0.0189254
+T: -0.421064 Q: -0.0121494
+T: -0.37311 Q: -0.0197594
+T: -0.332872 Q: inf
+T: -0.301573 Q: -0.019706
+T: -0.280163 Q: -0.0257153
+T: -0.269293 Q: -0.0345985
+T: -0.269293 Q: -0.0397571
+T: -0.280163 Q: -0.0361413
+T: -0.301573 Q: -0.0348468
+T: -0.332872 Q: inf
+T: -0.37311 Q: -0.0371033
+T: -0.421064 Q: -0.0370045
+T: -0.475276 Q: inf
+T: -0.5341 Q: -0.0236337
+T: -0.595747 Q: inf
+
+gestpm: TOTAL NUMBER PMT: WALL; TOP; BOTTOM; ALL  7650  1748  1748 11146
+ *****************************
+ * This is for SK-VI map      *
+ *****************************
+ findconsts: connection table file: /home/licheng/local/skofl/const//connection.super.dat
+gexyz: PMT # FOR EACH SECTION       1  7650  7651  9398  9399 11146
+gexyz: maxpm,nlwal     11146      7650
+ findconsts: connection table1 file: /home/licheng/local/skofl/const//connection.super.dat
+ findconsts: connection table2 file: /home/licheng/local/skofl/const//connection.super.sk-5.dat
+ findfile: checking /home/licheng/local/skofl/const//misch3.dat
+ findfile: found /home/licheng/local/skofl/const//misch3.dat
+ findconsts: mis channel file: /home/licheng/local/skofl/const//misch3.dat
+ findfile: checking /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findfile: found /home/licheng/local/skofl/const//skpmt_sk5.dat
+ findconsts: pmt file: /home/licheng/local/skofl/const//skpmt_sk5.dat
+gestpma: TOTAL NUMBER anti PMT: WALL; TOP; BOTTOM; ALL  1275   302   308  1885
+gexyza: anti PMT # FOR EACH SECTION       1  1275  1276  1577  1578  1885
+ maxpma,nlwala      1885      1275
+ skbadch: log_level =            0
+ findconsts: badch.090519 file: /home/licheng/local/skofl/const//badch/badch.090519
+ findconsts: bad channel file: /home/licheng/local/skofl/const//badch.dat
+ findconsts: badch.090519 file: /home/licheng/local/skofl/const//badch/badch.090519
+ skdark: log_level =            0
+ findconsts: darkr.090519.root file: /home/licheng/local/skofl/const//darkr/darkr.090519.root
+ findconsts: badsub SK-I 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk.r1742-3051.r3208-3608
+ nbad 1 =         1851
+ findconsts: badsub SK-I 2 file: /home/licheng/local/skofl/const//lowe/badsub.sk.realtim
+ nbad 2 =        17511
+ findconsts: badsub SK-I 3 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual.1260day
+ nbad 3 =        21939
+ findconsts: badsub SK-I 4 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle.1260day
+ nbad 4 =        28004
+ findconsts: badsub SK-I 5 file: /home/licheng/local/skofl/const//lowe/badsub.sk.manual
+ nbad 5 =        28105
+ findconsts: badsub SK-I 6 file: /home/licheng/local/skofl/const//lowe/badsub.sk.sle
+ nbad 6 =        28105
+ findconsts: badsub SK-II 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk2.manual
+ nbad_sk2 SK-II 1 =        27759
+ findconsts: badsub SK-III 1 file: /home/licheng/local/skofl/const//lowe/badsub.sk3.manual
+ nbad_sk3 SK-III 1 =         4149
+ findconsts: badsub SK-IV file: /home/licheng/local/skofl/const//lowe/badsub.sk4.manual
+ nbad_sk4 SK-IV =        66921
+ read local badsub.sk5.manual.local
+ nbad_sk5 SK-V =         2595
+ read local badsub.sk6.manual.local
+ nbad_sk6 SK-VI (Gd) =         7717
+ findconsts: skcoverage_barrel file: /home/licheng/local/skofl/const//lowe/skcov_b_p3.dat
+ findconsts: nearest neighbor file: /home/licheng/local/skofl/const//neighb.dat
+ neighbsk: reading neighbor file /home/licheng/local/skofl/const//neighb.dat
+ findconsts: skcoverage_sk4_final file: /home/licheng/local/skofl/const//lowe/skcov_c_p3.dat
