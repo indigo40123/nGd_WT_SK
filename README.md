@@ -3,7 +3,6 @@
 ## General description
 
 - This code analysis neutron captured Gd photon on water transparency.
-- A code modified from Kei-san (https://gitlab-kam.icrr.u-tokyo.ac.jp/iekikei/watert)
 - A text file of water transparency vs. day will be generated.
 
 ## Codes
