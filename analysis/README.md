@@ -103,3 +103,40 @@ The refactored code has the same dependencies as the original code:
 - pandas
 - scipy
 - matplotlib
+
+## Old codes
+
+The original code is located at /Old_code which includes :
+`wt_analysis.py`
+:  Summarized the analysis codes, generate text files and figures of water transparency vs. day.
+  - This code will run the following python codes by sequence.
+
+`single_day_merge.py`
+:  Merge the file from per run into per day.
+   - Input the files that generate from `q_vs_dist.cc`, and output `Day_XXXX.root` files. 
+   - Run numbers and corresponding days are reference from `/usr/local/sklib_gcc8/skofl-trunk/const/lowe/runsum.dat`. 
+   - Generate `output/single_days_merge.sh` script. 
+   
+`pm7days_merge.py`
+:  Merge the file from per run into plus minus 7 day (total 15 days).
+   - Input the files that generate from `q_vs_dist.cc`, and output `Day7_XXXX.root` files.
+   - Generate `output/pm7days_merge.sh` script. 
+
+`Eff_dist_plot.py`
+:  Plot the Effective hit versus distance plot.
+   - Input the Root file and generate figure with python package uproot3 and matplotlib.
+    
+`Fitting_linear.py`
+:  A fitting code for effective hit versus distance plot.
+   - Input the ROOT file and output water tranrparency fitting result in text file. 
+   - Linear fitting is done with python package scipy.optimize.curve_fit
+
+`Fitting_yfixlinear.py`
+:  A y-axis fixed fitting version of the Effective hit versus distance plot.
+   - Fixed y-intercept value, -0.8082, is chosen from `Fitting_linear.py`.
+
+`WT_trend_plot.py`
+:  Plot the Water transparency plot for SV-V, VI and VII period.
+   - Read the text file from `Fitting_yfixlinear.py` or `wt_history.cc`
+   - Output water tranrparency trend figure.
+   - Michel electrons water tranrparency results are prepared for comparision.
