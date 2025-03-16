@@ -1,14 +1,6 @@
-# Refactored WT Analysis Code
+# WT Analysis Code
 
-This directory contains a refactored version of the WT analysis code using Object-Oriented Programming (OOP) concepts. The original procedural code has been restructured into classes with proper inheritance, encapsulation, and polymorphism.
-
-## OOP Concepts Applied
-
-1. **Inheritance**: Base classes define common functionality that is inherited by specialized subclasses
-2. **Encapsulation**: Data and methods are encapsulated within classes
-3. **Polymorphism**: Common interfaces are defined for different implementations
-4. **Abstraction**: Abstract base classes define interfaces for concrete implementations
-5. **Method Chaining**: Fluent interface pattern for running analysis steps
+This directory contains a refactored version of the WT analysis code, where the old version is at \Old_code.
 
 ## Code Structure
 
@@ -103,15 +95,6 @@ analysis.merge_files()
 analysis.perform_fitting()
 analysis.create_plots()
 ```
-
-## Benefits of the Refactored Code
-
-1. **Modularity**: Each component has a single responsibility
-2. **Reusability**: Components can be reused in different contexts
-3. **Maintainability**: Easier to understand, modify, and extend
-4. **Testability**: Components can be tested in isolation
-5. **Flexibility**: Different implementations can be swapped easily
-
 ## Dependencies
 
 The refactored code has the same dependencies as the original code:
